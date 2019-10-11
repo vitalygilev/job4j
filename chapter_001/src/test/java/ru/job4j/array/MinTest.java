@@ -16,6 +16,7 @@ public class MinTest {
         );
     }
 
+
     @Test
     public void whenLastMin() {
         assertThat(
