@@ -8,11 +8,11 @@ public class Mortgage {
         do {
             year++;
             balance = balance + balance * percent / 100 - salary;
-            if (balance >= amount){
+            if (balance >= amount) {
                 year = -1;
                 break; //Вы в долговой яме!
             }
-        }while (balance > 0);
+        } while (balance > 0);
 
         return year;
     }

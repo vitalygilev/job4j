@@ -9,8 +9,10 @@ public class Defragment {
                 // переместить первую не null ячейку
                 // Здесь нужен цикл while
                 int incrementor = 1;
-                while (incrementor < array.length - index && array[index + incrementor] == null) incrementor += 1;
-                if (incrementor < array.length - index){
+                while (incrementor < array.length - index && array[index + incrementor] == null) {
+                    incrementor += 1;
+                }
+                if (incrementor < array.length - index) {
                     array[index] = array[index + incrementor];
                     array[index + incrementor] = null;
                 }

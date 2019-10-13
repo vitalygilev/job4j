@@ -10,9 +10,13 @@ public class PrimeNumber {
             prime = false;
             for (int i = 2; i < current; i++) {
                 prime = (current % i == 0);
-                if (prime) break;
+                if (prime) {
+                    break;
+                }
             }
-            if (!prime) count++;
+            if (!prime) {
+                count++;
+            }
         }
         return count;
     }

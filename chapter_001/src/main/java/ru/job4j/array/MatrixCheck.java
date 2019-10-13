@@ -8,12 +8,14 @@ public class MatrixCheck {
         int winColumnXCounter = 0;
         char sign;
         for (int row = 0; row < board.length; row++) {
-            if (winRowXCounter != board.length) winRowXCounter = 0;
+            if (winRowXCounter != board.length) {
+                winRowXCounter = 0;
+            }
             for (int cell = 0; cell < board.length; cell++) {
                 sign = board[row][cell];
                 System.out.print(sign);
 
-                if (sign == 'X'){
+                if (sign == 'X') {
                     winRowXCounter += 1;
                     winColumnXCounter += cell;
                 }
