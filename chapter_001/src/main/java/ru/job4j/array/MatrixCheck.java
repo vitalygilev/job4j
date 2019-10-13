@@ -11,18 +11,26 @@ public class MatrixCheck {
             if (winRowXCounter != board.length) {
                 winRowXCounter = 0;
             }
+            if (winColumnXCounter != board.length) {
+                winColumnXCounter = 0;
+            }
+
             for (int cell = 0; cell < board.length; cell++) {
                 sign = board[row][cell];
                 System.out.print(sign);
 
                 if (sign == 'X') {
                     winRowXCounter += 1;
-                    winColumnXCounter += cell;
+                }
+
+                sign = board[cell][row];
+                if (sign == 'X') {
+                    winColumnXCounter += 1;
                 }
             }
             System.out.println();
         }
-        result = (winRowXCounter == board.length) || (winColumnXCounter % board.length == 0);
+        result = (winRowXCounter == board.length) || (winColumnXCounter == board.length);
         return result;
     }
 
