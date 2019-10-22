@@ -2,10 +2,8 @@ package ru.job4j.loop;
 
 public class PrimeNumber {
     public int calc(int finish) {
-
         int count = 0;
         boolean prime;
-
         for (int current = 2; current <= finish; current++) {
             prime = false;
             for (int i = 2; i < current; i++) {

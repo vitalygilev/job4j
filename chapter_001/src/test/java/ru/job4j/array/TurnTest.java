@@ -17,7 +17,6 @@ public class TurnTest {
 
     @Test
     public void whenTurnArrayWithOddAmountOfElementsThenTurnedArray() {
-        //напишите здесь тест, проверяющий переворот массива с нечётным числом элементов, например {1, 2, 3, 4, 5}.
         Turn turner = new Turn();
         int[] input = new int[] {1, 2, 3, 4, 5};
         int[] result = turner.back(input);

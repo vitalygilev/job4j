@@ -2,12 +2,16 @@ package ru.job4j.array;
 
 public class Defragment {
 
+    /** Метод "сжимает" массив
+     * переместить первую не null ячейку
+     * Здесь нужен цикл while
+     * @param array - исходный массив
+     * @return возвращает сжатый массив
+     */
     public static String[] compress(String[] array) {
         for (int index = 0; index < array.length; index++) {
             String cell = array[index];
             if (cell == null) {
-                // переместить первую не null ячейку
-                // Здесь нужен цикл while
                 int incrementor = 1;
                 while (incrementor < array.length - index && array[index + incrementor] == null) {
                     incrementor += 1;

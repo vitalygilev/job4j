@@ -37,15 +37,12 @@ public class MatrixCheck {
             if (winColumnXCounter != board.length) {
                 winColumnXCounter = 0;
             }
-
             for (int cell = 0; cell < board.length; cell++) {
                 sign = board[row][cell];
                 System.out.print(sign);
-
                 if (sign == 'X') {
                     winRowXCounter += 1;
                 }
-
                 sign = board[cell][row];
                 if (sign == 'X') {
                     winColumnXCounter += 1;

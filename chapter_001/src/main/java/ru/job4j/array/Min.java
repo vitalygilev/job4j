@@ -2,10 +2,14 @@
 
  public class Min {
 
+     /**
+      * проверить, что эталон больше, чем элемент. записать в эталон элемент массива.
+      * @param array
+      * @return
+      */
      public static int findMin(int[] array) {
          int min = array[0];
          for (int index = 1; index < array.length; index++) {
-             // проверить, что эталон больше, чем элемент. записать в эталон элемент массива.
              if (array[index] < min) {
                  min = array[index];
              }
