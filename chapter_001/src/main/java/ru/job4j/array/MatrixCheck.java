@@ -4,6 +4,29 @@ public class MatrixCheck {
 
     public static boolean isWin(char[][] board) {
         boolean result;
+        boolean weHaveRowWinner = false;
+        String etalon = new String(new char[board.length]).replace("\0", "X");
+        int positionOfX = -1;
+        for (int index = 1; index < board.length; index ++) {
+            String value = String.copyValueOf(board[index]);
+            if (!weHaveRowWinner) {
+                weHaveRowWinner = value.equals(etalon);
+            }
+            if (positionOfX == -1) {
+                positionOfX = value.indexOf("X");
+            } else {
+                if (positionOfX != value.indexOf("X")) {
+                    positionOfX = -2;
+                }
+            }
+            System.out.println(value);
+        }
+        result = weHaveRowWinner || positionOfX != -2;
+        return result;
+    }
+
+    public static boolean isWinOld(char[][] board) {
+        boolean result;
         int winRowXCounter = 0;
         int winColumnXCounter = 0;
         char sign;
