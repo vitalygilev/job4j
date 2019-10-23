@@ -9,7 +9,7 @@ public class SqMaxTest {
     @Test
     public void whenFstMax() {
         assertThat(
-                SqMax.max(4, 3, 2, 1),
+                SqMax.max(4, 3),
                 is(4)
         );
     }
@@ -17,7 +17,7 @@ public class SqMaxTest {
     @Test
     public void whenSndMax() {
         assertThat(
-                SqMax.max(0, 3, 2, 1),
+                SqMax.max(0, 3, 2),
                 is(3)
         );
     }
