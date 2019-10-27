@@ -36,7 +36,7 @@ public class Tracker {
     private int getIndexById(String id) {
         int result = -1;
         for (int index =0; index < items.length; index++) {
-            if (items[index].getId().equals(id)) {
+            if (items[index] != null && items[index].getId().equals(id)) {
                 result = index;
                 break;
             }
@@ -83,7 +83,7 @@ public class Tracker {
         Item[] result = new Item[items.length];
         int currentIndex = 0;
         for (Item current: items) {
-            if (current.getName().equals(key)) {
+            if (current != null && current.getName().equals(key)) {
                 result[currentIndex++] = current;
             }
         }
@@ -93,7 +93,7 @@ public class Tracker {
     public Item findById(String id) {
         Item result = null;
         for (Item current: items) {
-            if (current.getId().equals(id)) {
+            if (current != null && current.getId().equals(id)) {
                 result = current;
                 break;
             }
