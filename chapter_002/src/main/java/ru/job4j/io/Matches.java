@@ -23,7 +23,7 @@ public class Matches {
                 System.out.print("Осталось " + currentMatches + " спичек. Игрок "+ currentPlayer + " тяните спички (" + interval + "): ");
                 Scanner input = new Scanner(System.in);
                 select = Integer.valueOf(input.nextLine());
-            } while (select < 0 || select > 3 || select > currentMatches);
+            } while (select < 1 || select > 3 || select > currentMatches);
             currentMatches -= select;
         }
         System.out.println("Победил игрок " + currentPlayer + "!");
