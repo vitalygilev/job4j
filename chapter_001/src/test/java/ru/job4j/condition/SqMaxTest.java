@@ -38,4 +38,12 @@ public class SqMaxTest {
         );
     }
 
+    @Test
+    public void whenFourMaxExtra() {
+        assertThat(
+                SqMax.max(4, 3, 8, 1),
+                is(8)
+        );
+    }
+
 }
