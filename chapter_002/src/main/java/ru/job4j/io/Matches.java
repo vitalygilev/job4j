@@ -20,7 +20,7 @@ public class Matches {
                 interval = "1-3";
             }
             do {
-                System.out.print("Осталось " + currentMatches + " спичек. Игрок "+ currentPlayer + " тяните спички (" + interval + "): ");
+                System.out.print("Осталось " + currentMatches + " спичек. Игрок " + currentPlayer + " тяните спички (" + interval + "): ");
                 Scanner input = new Scanner(System.in);
                 select = Integer.valueOf(input.nextLine());
             } while (select < 1 || select > 3 || select > currentMatches);

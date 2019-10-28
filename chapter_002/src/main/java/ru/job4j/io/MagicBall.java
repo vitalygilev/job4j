@@ -18,6 +18,8 @@ public class MagicBall {
             case (1):
                 textAnswer = "Нет!";
                 break;
+            default:
+                break;
         }
         System.out.println("Вопрос: " + ask + " ответ: " + textAnswer);
     }
