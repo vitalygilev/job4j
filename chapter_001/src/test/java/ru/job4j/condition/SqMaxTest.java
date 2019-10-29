@@ -39,10 +39,34 @@ public class SqMaxTest {
     }
 
     @Test
-    public void whenFourMaxExtra() {
+    public void whenFourMax1() {
+        assertThat(
+                SqMax.max(8, 3, 4, 1),
+                is(8)
+        );
+    }
+
+    @Test
+    public void whenFourMax2() {
+        assertThat(
+                SqMax.max(4, 8, 3, 1),
+                is(8)
+        );
+    }
+
+    @Test
+    public void whenFourMax3() {
         assertThat(
                 SqMax.max(4, 3, 8, 1),
                 is(8)
+        );
+    }
+
+    @Test
+    public void whenFourMax4() {
+        assertThat(
+                SqMax.max(4, 3, 8, 9),
+                is(9)
         );
     }
 
