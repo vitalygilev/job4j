@@ -1,5 +1,6 @@
 package ru.job4j.tracker;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class Tracker {
@@ -35,7 +36,7 @@ public class Tracker {
 
     private int getIndexById(String id) {
         int result = -1;
-        for (int index =0; index < items.length; index++) {
+        for (int index = 0; index < position; index++) {
             if (items[index] != null && items[index].getId().equals(id)) {
                 result = index;
                 break;
@@ -58,36 +59,25 @@ public class Tracker {
         int indexOfItem =  getIndexById(id);
         boolean canBeDeleted = (indexOfItem != -1);
         if (canBeDeleted) {
-            items[indexOfItem] = null;
-            for (int subIndex = indexOfItem; subIndex < items.length - 1; subIndex++) {
-                if (items[subIndex + 1] != null) {
-                    Item tmpItem = items[subIndex + 1];
-                    items[subIndex + 1] = items[subIndex];
-                    items[subIndex] = tmpItem;
-                }
-            }
+            System.arraycopy (items, indexOfItem + 1, items, indexOfItem, position - indexOfItem);
+            position -= 1;
         }
         return (canBeDeleted);
     }
 
     public Item[] findAll() {
-        Item[] result = new Item[items.length];
-        int currentIndex = 0;
-        for (Item current: items) {
-            result[currentIndex++] = current;
-        }
-        return result;
+        return Arrays.copyOf(items, position);
     }
 
     public Item[] findByName(String key) {
-        Item[] result = new Item[items.length];
+        Item[] result = new Item[position + 1];
         int currentIndex = 0;
         for (Item current: items) {
             if (current != null && current.getName().equals(key)) {
                 result[currentIndex++] = current;
             }
         }
-        return result;
+        return Arrays.copyOf(result, currentIndex);
     }
 
     public Item findById(String id) {
