@@ -8,18 +8,6 @@ import static org.junit.Assert.*;
 public class StartUITest {
 
     @Test
-    public void whenAddItem() {
-    }
-
-    @Test
-    public void whenReplaceItem() {
-    }
-
-    @Test
-    public void whenDeleteItem() {
-    }
-
-    @Test
     public void whenExit() {
         StubInput input = new StubInput(
                 new String[]{"0"}
@@ -28,4 +16,5 @@ public class StartUITest {
         new StartUI().init(input, new Tracker(), new UserAction[]{action});
         assertThat(action.isCall(), is(true));
     }
+
 }

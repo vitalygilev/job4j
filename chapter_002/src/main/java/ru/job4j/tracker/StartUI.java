@@ -8,7 +8,7 @@ public class StartUI {
         while (run) {
             this.showMenu(actions);
             do {
-                select = input.askInt("Select:  ");
+                select = input.askInt("Select: ");
             } while (select < 0 || select >= actions.length);
             UserAction action = actions[select];
             run = action.execute(input, tracker);

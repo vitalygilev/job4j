@@ -30,13 +30,4 @@ public class TrackerTest {
         assertThat(tracker.findById(previous.getId()).getName(), is("test2"));
     }
 
-    @Test
-    public void whenExit() {
-        StubInput input = new StubInput(
-                new String[]{"0"}
-        );
-        StubAction action = new StubAction();
-        new StartUI().init(input, new Tracker(), new UserAction[]{action});
-        assertThat(action.isCall(), is(true));
-    }
 }

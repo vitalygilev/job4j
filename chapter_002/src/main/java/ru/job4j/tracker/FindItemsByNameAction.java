@@ -14,9 +14,7 @@ public class FindItemsByNameAction implements UserAction {
         Item[] foundItems = tracker.findByName(itemName);
         if (foundItems.length != 0) {
             for (Item currentItem : foundItems) {
-                if (currentItem != null) {
-                    System.out.println("Item: " + currentItem.getName() + " id = " + currentItem.getId());
-                }
+                System.out.println("Item: " + currentItem.getName() + " id = " + currentItem.getId());
             }
         } else {
             System.out.print("Wrong Name!");
