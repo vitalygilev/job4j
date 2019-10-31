@@ -1,20 +1,17 @@
 package ru.job4j.tracker;
 
-public class EditAction implements UserAction {
+public class EditAction extends BaseAction {
 
-    @Override
-    public String name() {
-        return "=== Edit item ====";
+    public EditAction(int key) {
+        super(key, "=== Edit item ====");
     }
 
     @Override
     public boolean execute(Input input, Tracker tracker) {
-        System.out.print("Enter the Id of item to edit: ");
-        String itemId = input.askStr("");
+        String itemId = input.askStr("Enter the Id of item to edit: ");
         Item currentItem = tracker.findById(itemId);
         if (currentItem != null) {
-            System.out.print("Enter new name: ");
-            String name = input.askStr("");
+            String name = input.askStr("Enter new name: ");
             currentItem.setName(name);
             tracker.replace(itemId, currentItem);
         } else {

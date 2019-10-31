@@ -1,15 +1,15 @@
 package ru.job4j.tracker;
 
-public class QuitAction  implements UserAction {
+public class QuitAction extends BaseAction {
 
-    @Override
-    public String name() {
-        return "=== Quit ===";
+    public QuitAction(int key) {
+        super(key, "=== Quit ===");
     }
 
     @Override
     public boolean execute(Input input, Tracker tracker) {
-        return false;
+        String itemId = input.askStr("Are you sure (y)? ");
+        return !itemId.equals("y");
     }
 
 }

@@ -35,10 +35,10 @@ public class FindByNameActionTest {
         item = new Item("fix bug");
         tracker.add(item);
         tracker.add(item);
-        FindItemsByNameAction act = new FindItemsByNameAction();
+        FindItemsByNameAction act = new FindItemsByNameAction(0);
         act.execute(new StubInput(new String[] {"fix bug"}), tracker);
         String expect = new StringJoiner(System.lineSeparator(), "", System.lineSeparator())
-                .add("Enter the Name of item to find: " + "Item: " + item.getName() + " id = " + item.getId())
+                .add("Item: " + item.getName() + " id = " + item.getId())
                 .add("Item: " + item.getName() + " id = " + item.getId())
                 .toString();
         assertThat(new String(out.toByteArray()), is(expect));
@@ -52,9 +52,9 @@ public class FindByNameActionTest {
         item = new Item("fix bug");
         tracker.add(item);
         tracker.add(item);
-        FindItemsByNameAction act = new FindItemsByNameAction();
+        FindItemsByNameAction act = new FindItemsByNameAction(0);
         act.execute(new StubInput(new String[] {"crash firewall"}), tracker);
-        String expect = "Enter the Name of item to find: Wrong Name!";
+        String expect = "Wrong Name!";
         assertThat(new String(out.toByteArray()), is(expect));
     }
 }

@@ -16,7 +16,7 @@ public class StartUI {
     private void showMenu(UserAction[] actions) {
         System.out.println("Menu.");
         for (int index = 0; index < actions.length; index++) {
-            System.out.println(index + ". " + actions[index].name());
+            System.out.println(actions[index].info());
         }
     }
 
@@ -25,13 +25,13 @@ public class StartUI {
         Input validate = new ValidateInput(input);
         Tracker tracker = new Tracker();
         UserAction[] actions = {
-                new CreateAction(),
-                new ShowAllAction(),
-                new EditAction(),
-                new DeleteAction(),
-                new FindItemByIdAction(),
-                new FindItemsByNameAction(),
-                new QuitAction()
+                new CreateAction(0),
+                new ShowAllAction(1),
+                new EditAction(2),
+                new DeleteAction(3),
+                new FindItemByIdAction(4),
+                new FindItemsByNameAction(5),
+                new QuitAction(6)
         };
         new StartUI().init(validate, tracker, actions);
     }

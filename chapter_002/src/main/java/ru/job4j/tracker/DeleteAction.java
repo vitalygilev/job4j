@@ -1,16 +1,14 @@
 package ru.job4j.tracker;
 
-public class DeleteAction implements UserAction {
+public class DeleteAction extends BaseAction {
 
-    @Override
-    public String name() {
-        return "=== Delete item ====";
+    public DeleteAction(int key) {
+        super(key,"=== Delete item ====");
     }
 
     @Override
     public boolean execute(Input input, Tracker tracker) {
-        System.out.print("Enter the Id of item to delete: ");
-        String itemId = input.askStr("");
+        String itemId = input.askStr("Enter the Id of item to delete: ");
         if (!tracker.delete(itemId)) {
             System.out.print("Wrong Id!");
         }
