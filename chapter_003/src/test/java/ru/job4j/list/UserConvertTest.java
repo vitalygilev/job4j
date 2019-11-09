@@ -15,14 +15,14 @@ public class UserConvertTest {
     @Test
     public void when3UsersInList() {
 
-        HashMap<Integer, User> result = UserConvert.process(Arrays.asList(new User(1, "User 1", "Default City"),
-                                                                          new User(2, "User 2", "Default City"),
-                                                                          new User(3, "User 3", "Default City")
+        HashMap<Integer, User> result = UserConvert.process(Arrays.asList(new User(1, "User 1", "Default City", 20),
+                                                                          new User(2, "User 2", "Default City", 20),
+                                                                          new User(3, "User 3", "Default City", 20)
                 ));
         HashMap<Integer, User> expect = new HashMap<>();
-        expect.put(1, new User(1, "User 1", "Default City"));
-        expect.put(2, new User(2, "User 2", "Default City"));
-        expect.put(3, new User(3, "User 3", "Default City"));
+        expect.put(1, new User(1, "User 1", "Default City", 20));
+        expect.put(2, new User(2, "User 2", "Default City", 20));
+        expect.put(3, new User(3, "User 3", "Default City",20));
         assertThat(result, is(expect));
     }
 }
