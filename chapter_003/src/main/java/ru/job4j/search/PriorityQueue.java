@@ -13,16 +13,15 @@ public class PriorityQueue {
      * @param task задача
      */
     public void put(Task task) {
-        boolean inserted = false;
-        Iterator<Task> iterator = tasks.iterator();
-        for (int index = 0; index < tasks.size(); index++) {
-            if (task.getPriority() < iterator.next().getPriority()) {
-                inserted = true;
+        int index = -1;
+        for (Task curTask : tasks) {
+            index++;
+            if (task.getPriority() < curTask.getPriority()) {
                 tasks.add(index, task);
                 break;
             }
         }
-        if (!inserted) {
+        if (index == tasks.size() - 1) {
             tasks.add(task);
         }
     }
