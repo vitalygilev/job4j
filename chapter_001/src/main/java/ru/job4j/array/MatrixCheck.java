@@ -7,7 +7,7 @@ public class MatrixCheck {
         boolean weHaveRowWinner = false;
         String etalon = new String(new char[board.length]).replace("\0", "X");
         int positionOfX = -1;
-        for (int index = 1; index < board.length; index ++) {
+        for (int index = 1; index < board.length; index++) {
             String value = String.copyValueOf(board[index]);
             if (!weHaveRowWinner) {
                 weHaveRowWinner = value.equals(etalon);
