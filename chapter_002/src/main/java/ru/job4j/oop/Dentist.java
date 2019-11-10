@@ -6,17 +6,17 @@ public class Dentist extends Doctor {
     public long visitDate;
 
     public Dentist(String name, String surname, String education, long birthday, String hospital, byte seniority,
-                   String currentPatient, long visitDate) {
+                   String currentPatient) {
         super(name, surname, education, birthday, hospital, seniority);
         this.currentPatient = currentPatient;
-        this.visitDate = visitDate;
+        //this.visitDate = visitDate;
     }
 
     public String getCurrentPatient() {
         return currentPatient;
     }
 
-    public long getVisitDate() {
+    /*public long getVisitDate() {
         return visitDate;
-    }
+    }*/
 }

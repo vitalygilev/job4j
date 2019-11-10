@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ConvertList {
 
-    public static List<Integer> convert (List<int[]> list) {
+    public static List<Integer> convert(List<int[]> list) {
         List<Integer> resList = new ArrayList<>();
         for (int[] curRow : list) {
             for (int curCell : curRow) {

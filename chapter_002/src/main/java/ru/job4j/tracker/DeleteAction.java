@@ -3,7 +3,7 @@ package ru.job4j.tracker;
 public class DeleteAction extends BaseAction {
 
     public DeleteAction(int key) {
-        super(key,"=== Delete item ====");
+        super(key, "=== Delete item ====");
     }
 
     @Override

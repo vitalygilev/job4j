@@ -5,7 +5,7 @@ public class Shop {
     public static Product[] delete(Product[] products, int index) {
         if (index >= 0 && index < products.length) {
             products[index] = null;
-            for (int subIndex = index; subIndex < products.length - 1; subIndex ++ ) {
+            for (int subIndex = index; subIndex < products.length - 1; subIndex++) {
                 //Если все удаляемые элементы удаляются только этим методом, нет необходимости сдвигать текущий null в самый конец массива.
                 if (products[subIndex + 1] != null) {
                     Product tmpProduct = products[subIndex];
@@ -18,7 +18,7 @@ public class Shop {
     }
 
     public static void main(String[] args) {
-        Product products[] = new Product[5];
+        Product[] products = new Product[5];
         products[0] = new Product("Milk", 10);
         products[1] = new Product("Bread", 4);
         products[2] = new Product("Egg", 19);
