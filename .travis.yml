@@ -2,10 +2,6 @@
 language: java
 jdk:
   - openjdk11
-  -
-env:
-  global:
-    -CODECOV_TOKEN="2139699c-00be-4114-819b-da1bb122c4cd"
 
 # используем режим обычного пользователя для сборки проекта.
 sudo: false
@@ -22,3 +18,7 @@ notifications:
       -vitvit1@yandex.ru
     on_success: never # default: change
     on_failure: always # default: always
+
+env:
+  global:
+    -CODECOV_TOKEN="2139699c-00be-4114-819b-da1bb122c4cd"
