@@ -52,7 +52,7 @@
                         <phase>validate</phase>
                         <configuration>
                             <!--<configLocation>checkstyle.xml</configLocation>-->
-                            <configLocation>${basedir}\checkstyle.xml</configLocation>
+                            <configLocation>${basedir}/checkstyle.xml</configLocation>
                             <propertyExpansion>checkstyle.config.path=${basedir}</propertyExpansion>                            <encoding>UTF-8</encoding>
                             <consoleOutput>true</consoleOutput>
                             <failsOnError>true</failsOnError>
