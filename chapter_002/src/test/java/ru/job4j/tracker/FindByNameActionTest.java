@@ -6,6 +6,7 @@ import org.junit.Before;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.util.StringJoiner;
+import java.util.function.Consumer;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
@@ -14,6 +15,14 @@ public class FindByNameActionTest {
 
     private final PrintStream stdout = System.out;
     private final ByteArrayOutputStream out = new ByteArrayOutputStream();
+    private final Consumer<String> output = new Consumer<String>() {
+        private final PrintStream stdout = new PrintStream(out);
+
+        @Override
+        public void accept(String s) {
+            stdout.println(s);
+        }
+    };
 
     @Before
     public void loadOutput() {
@@ -36,7 +45,7 @@ public class FindByNameActionTest {
         tracker.add(item);
         tracker.add(item);
         FindItemsByNameAction act = new FindItemsByNameAction(0);
-        act.execute(new StubInput(new String[] {"fix bug"}), tracker);
+        act.execute(new StubInput(new String[] {"fix bug"}), tracker, output);
         String expect = new StringJoiner(System.lineSeparator(), "", System.lineSeparator())
                 .add("Item: " + item.getName() + " id = " + item.getId())
                 .add("Item: " + item.getName() + " id = " + item.getId())
@@ -53,7 +62,7 @@ public class FindByNameActionTest {
         tracker.add(item);
         tracker.add(item);
         FindItemsByNameAction act = new FindItemsByNameAction(0);
-        act.execute(new StubInput(new String[] {"crash firewall"}), tracker);
+        act.execute(new StubInput(new String[] {"crash firewall"}), tracker, output);
         String expect = "Wrong Name!";
         assertThat(new String(out.toByteArray()), is(expect));
     }
