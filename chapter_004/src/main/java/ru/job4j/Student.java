@@ -4,6 +4,9 @@ import java.util.Objects;
 
 public class Student {
 
+    String firstName;
+    String surname;
+
     int score;
 
     public int getScore() {
@@ -18,6 +21,16 @@ public class Student {
         this.score = score;
     }
 
+    public Student(String firstName, String surname, int score) {
+        this.firstName = firstName;
+        this.surname = surname;
+        this.score = score;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -29,5 +42,14 @@ public class Student {
     @Override
     public int hashCode() {
         return Objects.hash(score);
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstName='" + firstName + '\'' +
+                ", surname='" + surname + '\'' +
+                ", score=" + score +
+                '}';
     }
 }
