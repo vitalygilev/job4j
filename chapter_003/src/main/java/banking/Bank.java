@@ -27,11 +27,11 @@ public class Bank {
         return this.accountsMap.get(new User("", passport));
     }
 
-    public Account getAccountByPassportAndRequisites(String passport, String Requisite) {
+    public Account getAccountByPassportAndRequisites(String passport, String requisite) {
         Account result = null;
         ArrayList<Account> curAccountsList = getAccountsListByPassport(passport);
         if (curAccountsList != null) {
-            int index = curAccountsList.indexOf(new Account(0, Requisite));
+            int index = curAccountsList.indexOf(new Account(0, requisite));
             if (index != -1) {
                 result = curAccountsList.get(index);
             }
@@ -57,7 +57,7 @@ public class Bank {
         return this.accountsMap.get(user);
     }
 
-    public boolean transferMoney (String srcPassport, String srcRequisite, String destPassport, String dstRequisite, double amount) {
+    public boolean transferMoney(String srcPassport, String srcRequisite, String destPassport, String dstRequisite, double amount) {
         Account srcAccount = getAccountByPassportAndRequisites(srcPassport, srcRequisite);
         Account destAccount = getAccountByPassportAndRequisites(destPassport, dstRequisite);
         return srcAccount != null && destAccount != null && srcAccount.transfer(destAccount, amount);

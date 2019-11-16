@@ -63,7 +63,9 @@ public class FindByNameActionTest {
         tracker.add(item);
         FindItemsByNameAction act = new FindItemsByNameAction(0);
         act.execute(new StubInput(new String[] {"crash firewall"}), tracker, output);
-        String expect = "Wrong Name!";
+        String expect = new StringJoiner(System.lineSeparator(), "", System.lineSeparator())
+                .add("Wrong Name!")
+                .toString();
         assertThat(new String(out.toByteArray()), is(expect));
     }
 }

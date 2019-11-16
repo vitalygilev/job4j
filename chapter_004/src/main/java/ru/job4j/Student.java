@@ -33,8 +33,12 @@ public class Student {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
         Student student = (Student) o;
         return score == student.score;
     }
@@ -46,10 +50,10 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
-                "firstName='" + firstName + '\'' +
-                ", surname='" + surname + '\'' +
-                ", score=" + score +
-                '}';
+        return "Student{"
+                + "firstName='" + firstName + '\''
+                + ", surname='" + surname + '\''
+                + ", score=" + score
+                + '}';
     }
 }
