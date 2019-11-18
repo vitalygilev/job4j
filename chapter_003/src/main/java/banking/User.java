@@ -2,7 +2,7 @@ package banking;
 
 import java.util.Objects;
 
-public class User {
+public class User implements Comparable<User> {
 
     String name;
     String passport;
@@ -30,18 +30,19 @@ public class User {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) {
-            return true;
-        }
-        if (o == null || getClass() != o.getClass()) {
-            return false;
-        }
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
         User user = (User) o;
-        return passport.equals(user.passport);
+        return Objects.equals(name, user.name) &&
+                Objects.equals(passport, user.passport);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(passport);
+        return Objects.hash(name, passport);
+    }
+
+    public int compareTo(User u){
+        return getPassport().compareTo(u.getPassport());
     }
 }

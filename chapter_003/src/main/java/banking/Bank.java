@@ -1,19 +1,10 @@
 package banking;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.TreeMap;
+import java.util.*;
 
 public class Bank {
 
-    private TreeMap<User, ArrayList<Account>> accountsMap = new TreeMap<>(new Comparator<>() {
-        @Override
-        public int compare(User o1, User o2) {
-            return o1.getPassport().compareTo(o2.getPassport());
-        }
-    }
-    );
+    private Map<User, ArrayList<Account>> accountsMap = new TreeMap<>();
 
     public void addUser(User user) {
         this.accountsMap.putIfAbsent(user, new ArrayList<>());
@@ -24,7 +15,14 @@ public class Bank {
     }
 
     public ArrayList<Account> getAccountsListByPassport(String passport) {
-        return this.accountsMap.get(new User("", passport));
+        ArrayList<Account> result = new ArrayList<>();
+        for (var curUser : this.accountsMap.entrySet()) {
+            if (curUser.getKey().getPassport().equals(passport)) {
+                result = curUser.getValue();
+                break;
+            }
+        }
+        return result;
     }
 
     public Account getAccountByPassportAndRequisites(String passport, String requisite) {
@@ -66,4 +64,5 @@ public class Bank {
     public String toString() {
         return "Bank{" + "accounts=" + accountsMap + "}";
     }
+
 }
