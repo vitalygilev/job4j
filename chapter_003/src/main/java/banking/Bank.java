@@ -65,4 +65,7 @@ public class Bank {
         return "Bank{" + "accounts=" + accountsMap + "}";
     }
 
+    public Map<User, ArrayList<Account>> getAccountsMap() {
+        return accountsMap;
+    }
 }

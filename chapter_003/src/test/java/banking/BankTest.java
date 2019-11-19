@@ -1,6 +1,12 @@
 package banking;
 
 import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertThat;
@@ -13,8 +19,8 @@ public class BankTest {
         User curUser = new User("Ivanov Ivan", "1122 334455");
         bank.addUser(curUser);
         bank.addAccountToUser("1122 334455", new Account(500000, "40000000000000000001"));
-        String expect = "40000000000000000001";
-        assertThat(bank.getAccounts(curUser).get(0).getRequisites(), is(expect));
+        Map<User, List<Account>> expect = Map.of(new User("Ivanov Ivan", "1122 334455"), List.of(new Account(500000, "40000000000000000001")));
+        assertThat(bank.getAccountsMap(), is(expect));
     }
 
     @Test
@@ -31,8 +37,9 @@ public class BankTest {
 
         bank.transferMoney("1122 334455", "40000000000000000001", "1122 334477", "40000000000000000002", 500000);
 
-        double expect = 500000;
-        assertThat(bank.getAccounts(curUserPetrov).get(0).getValue(), is(expect));
+        Map<User, List<Account>> expect = Map.of(new User("Ivanov Ivan", "1122 334455"), List.of(new Account(0, "40000000000000000001")),
+                new User("Petrov Petr", "1122 334477"), List.of(new Account(500000, "40000000000000000002")));
+        assertThat(bank.getAccountsMap(), is(expect));
     }
 
     @Test
@@ -42,8 +49,8 @@ public class BankTest {
         bank.addUser(curUser);
         bank.addAccountToUser("1122 334455", new Account(500000, "40000000000000000001"));
         bank.deleteAccountFromUser("1122 334455", bank.getAccounts(curUser).get(0));
-        int expect = 0;
-        assertThat(bank.getAccounts(curUser).size(), is(expect));
+        Map<User, List<Account>> expect = Map.of(new User("Ivanov Ivan", "1122 334455"), List.of());
+        assertThat(bank.getAccountsMap(), is(expect));
     }
 
 }
