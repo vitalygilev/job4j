@@ -21,16 +21,9 @@ public class Depts {
     }
 
     public Depts(boolean directOrder) {
-        if (directOrder) {
-            depts = new TreeSet<>();
-        } else {
-            depts = new TreeSet<>(new Comparator<>() {
-                @Override
-                public int compare(String o1, String o2) {
-                    return -o1.compareTo(o2);
-                }
-            });
-        }
+        Comparator<String> comparator =
+                directOrder ? Comparator.naturalOrder() : Comparator.reverseOrder();
+        depts = new TreeSet<>(comparator);
     }
 
     public static void main(String[] args) {

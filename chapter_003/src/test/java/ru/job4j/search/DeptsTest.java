@@ -21,7 +21,14 @@ public class DeptsTest {
         deptsStruc.addDept("K2\\SK1\\SSK1");
         deptsStruc.addDept("K2\\SK1\\SSK2");
 
-        List<String> expect = List.of("K1", "K1\\SK1", "K1\\SK1\\SSK1", "K1\\SK1\\SSK2","K1\\SK2","K2","K2\\SK1","K2\\SK1\\SSK1","K2\\SK1\\SSK2");
+        List<String> expect = List.of("K1",
+                "K1\\SK1",
+                "K1\\SK1\\SSK1",
+                "K1\\SK1\\SSK2",
+                "K1\\SK2","K2",
+                "K2\\SK1",
+                "K2\\SK1\\SSK1",
+                "K2\\SK1\\SSK2");
 
         assertThat(deptsStruc.getDepts().toArray(), is(expect.toArray()));
     }
@@ -38,7 +45,13 @@ public class DeptsTest {
         deptsStruc.addDept("K2\\SK1\\SSK1");
         deptsStruc.addDept("K2\\SK1\\SSK2");
 
-        List<String> expect = List.of("K2\\SK1\\SSK2", "K2\\SK1\\SSK1", "K2\\SK1", "K2", "K1\\SK2", "K1\\SK1\\SSK2", "K1\\SK1\\SSK1", "K1\\SK1", "K1");
+        List<String> expect = List.of("K2\\SK1\\SSK2",
+                "K2\\SK1\\SSK1",
+                "K2\\SK1", "K2",
+                "K1\\SK2",
+                "K1\\SK1\\SSK2",
+                "K1\\SK1\\SSK1",
+                "K1\\SK1", "K1");
 
         assertThat(deptsStruc.getDepts().toArray(), is(expect.toArray()));
     }
