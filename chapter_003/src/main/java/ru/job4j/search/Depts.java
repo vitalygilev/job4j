@@ -26,9 +26,16 @@ public class Depts {
         depts = new TreeSet<>(comparator);
     }
 
+    @Override
+    public String toString() {
+        return "Depts{" +
+                "depts=" + depts +
+                '}';
+    }
+
     public static void main(String[] args) {
         Depts deptsStruc = new Depts(true);
-        deptsStruc.addDept("K1\\SK1\\SSK1");
+        deptsStruc.addDept("K1\\SK1");
         System.out.println(deptsStruc.toString());
     }
 
