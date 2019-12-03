@@ -1,19 +1,29 @@
 package ru.job4j.search;
 
-import java.util.Comparator;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class Depts {
 
     private Set<String> depts;
 
+    public void fillGaps(List<String> orgs) {
+        depts.addAll(orgs);
+    }
+
     public void addDept(String dept) {
+        List<String> orgs = new ArrayList<>();
+        int slashPos;
         depts.add(dept);
-        int slashPos = dept.lastIndexOf("\\");
-        if (slashPos != -1) {
-            addDept(dept.substring(0, slashPos));
-        }
+        do {
+            slashPos = dept.lastIndexOf("\\");
+            if (slashPos != -1) {
+                dept = dept.substring(0, slashPos);
+                orgs.add(dept);
+            } else {
+                break;
+            }
+        } while (true);
+        fillGaps(orgs);
     }
 
     public Set<String> getDepts() {
