@@ -13,6 +13,24 @@ import static org.junit.Assert.assertThat;
 
 public class GroupTest {
 
+    private class Pair {
+        private String student;
+        private String section;
+
+        public String getStudent() {
+            return student;
+        }
+
+        public String getSection() {
+            return section;
+        }
+
+        public Pair(String student, String section) {
+            this.student = student;
+            this.section = section;
+        }
+    }
+
     public List<StudentWithUnits> students = new ArrayList<>();
 
     @Test
