@@ -1,0 +1,32 @@
+package main.java.ru.job4j.array;
+
+import java.util.Iterator;
+
+public class MatrixIterator implements Iterator {
+
+    private final int[][] values;
+    private int indexI = 0, indexJ = 0;
+
+    public MatrixIterator(final int[][] values) {
+        this.values = values;
+    }
+
+    @Override
+    public boolean hasNext() {
+        return indexJ != values.length -1 || indexI != values[indexJ].length;
+    }
+
+    @Override
+    public Object next() {
+        if (hasNext()) {
+            if (indexI == values[indexJ].length) {
+                indexI = 0;
+                indexJ++;
+            }
+        } else {
+            indexI = 0;
+            indexJ = 0;
+        }
+        return values[indexJ][indexI++];
+    }
+}
