@@ -19,15 +19,12 @@ public class MatrixIterator implements Iterator {
 
     @Override
     public Object next() throws NoSuchElementException {
-        if (hasNext()) {
-            if (indexI == values[indexJ].length) {
-                indexI = 0;
-                indexJ++;
-            }
-        } else {
-            indexI = 0;
-            indexJ = 0;
+        if (!hasNext()) {
             throw new NoSuchElementException("No more elements in this matrix!");
+        }
+        if (indexI == values[indexJ].length) {
+            indexI = 0;
+            indexJ++;
         }
         return values[indexJ][indexI++];
     }
