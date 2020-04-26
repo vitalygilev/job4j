@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 
 public class SimpleArray<T> implements Iterator {
 
-    Object[] objects;
+    private Object[] objects;
     private int index = 0;
     private int iteratorIndex = 0;
 
@@ -18,16 +18,14 @@ public class SimpleArray<T> implements Iterator {
     }
 
     public void remove(int position) throws NoSuchElementException {
-        if (position < index && position >= 0) {
-            System.arraycopy(objects, position + 1, objects, position, index - position - 1);
-            if (index < objects.length) {
-                objects[index--] = null;
-            } else
-            {
-                objects[--index] = null;
-            }
-        } else {
+        if  (position >= index || position < 0) {
             throw new NoSuchElementException("There is no such element!");
+        }
+        System.arraycopy(objects, position + 1, objects, position, index - position - 1);
+        if (index < objects.length) {
+            objects[index--] = null;
+        } else {
+            objects[--index] = null;
         }
     }
 
@@ -38,7 +36,10 @@ public class SimpleArray<T> implements Iterator {
         objects[position] = model;
     }
 
-    public T get(int index) {
+    public T get(int index) throws NoSuchElementException {
+        if (index < 0 || index >= objects.length) {
+            throw new NoSuchElementException("There is no such element!");
+        }
         return (T) objects[index];
     }
 
@@ -50,7 +51,7 @@ public class SimpleArray<T> implements Iterator {
     @Override
     public Object next() throws NoSuchElementException {
         if (!hasNext()) {
-            throw new NoSuchElementException("No more elements in this matrix!");
+            throw new NoSuchElementException("No more elements in this array!");
         }
         return objects[iteratorIndex++];
     }

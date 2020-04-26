@@ -4,9 +4,11 @@ import org.junit.Test;
 import main.java.ru.job4j.array.SimpleArray;
 
 import java.util.Iterator;
+import java.util.NoSuchElementException;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.lessThanOrEqualTo;
 
 public class SimpleArrayTest {
 
@@ -15,6 +17,17 @@ public class SimpleArrayTest {
         SimpleArray<Integer> elements = new SimpleArray<>(2);
         elements.add(2);
         assertThat(elements.get(0), is(2));
+    }
+
+    @Test
+    public void whenAddGetAbsentElement() {
+        SimpleArray<Integer> elements = new SimpleArray<>(1);
+        elements.add(2);
+        try {
+            elements.get(1);
+        } catch (NoSuchElementException e) {
+            assertThat(e.getMessage(), is("There is no such element!"));
+        }
     }
 
     @Test
@@ -36,7 +49,7 @@ public class SimpleArrayTest {
     }
 
     @Test
-    public void serialReading () {
+    public void serialReading() {
         SimpleArray<Integer> elements = new SimpleArray<>(2);
         elements.add(1);
         elements.add(2);
