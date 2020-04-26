@@ -14,7 +14,7 @@ public class MatrixIterator implements Iterator {
 
     @Override
     public boolean hasNext() {
-        return indexJ != values.length -1 || indexI != values[indexJ].length;
+        return indexJ != values.length - 1 || indexI != values[indexJ].length;
     }
 
     @Override
@@ -27,5 +27,10 @@ public class MatrixIterator implements Iterator {
             indexJ++;
         }
         return values[indexJ][indexI++];
+    }
+
+    @Override
+    public void remove() {
+
     }
 }

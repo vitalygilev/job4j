@@ -37,4 +37,9 @@ public class EvenIt implements Iterator {
         }
         return numbers[index++];
     }
+
+    @Override
+    public void remove() {
+
+    }
 }
