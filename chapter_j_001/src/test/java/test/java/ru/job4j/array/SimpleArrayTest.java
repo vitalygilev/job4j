@@ -25,8 +25,8 @@ public class SimpleArrayTest {
         elements.add(2);
         try {
             elements.get(1);
-        } catch (NoSuchElementException e) {
-            assertThat(e.getMessage(), is("There is no such element!"));
+        } catch (IndexOutOfBoundsException e) {
+            assertThat(e.getMessage(), is("Index out of bounds!"));
         }
     }
 

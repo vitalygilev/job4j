@@ -10,42 +10,41 @@ public class SimpleArray<T> implements Iterator {
     private int iteratorIndex = 0;
 
     public SimpleArray(int size) {
-        this.objects = new Object[size];
+        objects = new Object[size + 1];
     }
 
-    public void add(T model) {
+    public void add(T model) throws IndexOutOfBoundsException {
+        if (index == objects.length - 1) {
+            throw new IndexOutOfBoundsException("Array overflow!");
+        }
         this.objects[index++] = model;
     }
 
-    public void remove(int position) throws NoSuchElementException {
-        if  (position >= index || position < 0) {
-            throw new NoSuchElementException("There is no such element!");
+    public void remove(int position) throws IndexOutOfBoundsException {
+        if  (position < 0 || position >= index) {
+            throw new IndexOutOfBoundsException("Index out of bounds!");
         }
         System.arraycopy(objects, position + 1, objects, position, index - position - 1);
-        if (index < objects.length) {
-            objects[index--] = null;
-        } else {
-            objects[--index] = null;
-        }
+        objects[index--] = null;
     }
 
-    public void set(int position, T model) throws NoSuchElementException {
-        if (position < 0 || position > index) {
-            throw new NoSuchElementException("There is no such element!");
+    public void set(int position, T model) throws IndexOutOfBoundsException {
+        if (position < 0 || position >= index) {
+            throw new IndexOutOfBoundsException("Index out of bounds!");
         }
         objects[position] = model;
     }
 
-    public T get(int index) throws NoSuchElementException {
-        if (index < 0 || index >= objects.length) {
-            throw new NoSuchElementException("There is no such element!");
+    public T get(int position) throws IndexOutOfBoundsException {
+        if (position < 0 || position >= index) {
+            throw new IndexOutOfBoundsException("Index out of bounds!");
         }
-        return (T) objects[index];
+        return (T) objects[position];
     }
 
     @Override
     public boolean hasNext() {
-        return iteratorIndex < objects.length;
+        return iteratorIndex <= index;
     }
 
     @Override
