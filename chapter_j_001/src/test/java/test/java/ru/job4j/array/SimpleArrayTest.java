@@ -19,15 +19,11 @@ public class SimpleArrayTest {
         assertThat(elements.get(0), is(2));
     }
 
-    @Test
+    @Test(expected = IndexOutOfBoundsException.class)
     public void whenAddGetAbsentElement() {
         SimpleArray<Integer> elements = new SimpleArray<>(1);
         elements.add(2);
-        try {
-            elements.get(1);
-        } catch (IndexOutOfBoundsException e) {
-            assertThat(e.getMessage(), is("Index out of bounds!"));
-        }
+        elements.get(1);
     }
 
     @Test
