@@ -46,10 +46,6 @@ public class ForwardLinked<T> implements Iterable<T> {
                 return value;
             }
 
-            @Override
-            public void remove() {
-
-            }
         };
     }
 
