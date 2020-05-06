@@ -3,7 +3,7 @@ package main.java.ru.job4j.array;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-public class SimpleArray<T> implements Iterator<T> {
+public class SimpleArray<T> implements Iterable<T> {
 
     private Object[] objects;
     private int index = 0;
@@ -43,16 +43,22 @@ public class SimpleArray<T> implements Iterator<T> {
     }
 
     @Override
-    public boolean hasNext() {
-        return iteratorIndex < index;
-    }
+    public Iterator<T> iterator() {
 
-    @Override
-    public T next() {
-        if (!hasNext()) {
-            throw new NoSuchElementException("No more elements in this array!");
-        }
-        return (T) objects[iteratorIndex++];
+        return new Iterator<>() {
+            @Override
+            public boolean hasNext() {
+                return iteratorIndex < index;
+            }
+
+            @Override
+            public T next() {
+                if (!hasNext()) {
+                    throw new NoSuchElementException("No more elements in this array!");
+                }
+                return (T) objects[iteratorIndex++];
+            }
+        };
     }
 }
 

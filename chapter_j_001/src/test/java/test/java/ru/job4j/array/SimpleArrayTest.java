@@ -49,10 +49,9 @@ public class SimpleArrayTest {
         SimpleArray<Integer> elements = new SimpleArray<>(2);
         elements.add(1);
         elements.add(2);
-        assertThat(((Iterator<Integer>) elements).next(),
-                is(1));
-        assertThat(((Iterator<Integer>) elements).next(),
-                is(2));
+        Iterator<Integer> it = elements.iterator();
+        assertThat(it.next(), is(1));
+        assertThat(it.next(), is(2));
     }
 
 }
