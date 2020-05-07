@@ -3,6 +3,7 @@ package ru.job4j.collection;
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
+import java.util.Objects;
 
 public class SimpleLinkedList<T> implements Iterable<T> {
 
@@ -11,7 +12,6 @@ public class SimpleLinkedList<T> implements Iterable<T> {
     private SimpleLinkedList.Node<T> cursor;
     private int currentPosition = 0;
     private long modCount = 0;
-    private long expectedModCount;
 
     public void add(T value) {
         size++;
@@ -30,9 +30,7 @@ public class SimpleLinkedList<T> implements Iterable<T> {
     }
 
     public T get(int index) {
-        if (index >= size) {
-            throw new IndexOutOfBoundsException();
-        }
+        Objects.checkIndex(index, size);
         if (currentPosition > index) {
             currentPosition = 0;
             cursor = head;
@@ -46,8 +44,9 @@ public class SimpleLinkedList<T> implements Iterable<T> {
 
     @Override
     public Iterator<T> iterator() {
-        Iterator<T> iterator = new Iterator<T>() {
+        return new Iterator<T>() {
             SimpleLinkedList.Node<T> node = head;
+            long expectedModCount = modCount;
 
             @Override
             public boolean hasNext() {
@@ -67,8 +66,6 @@ public class SimpleLinkedList<T> implements Iterable<T> {
                 return value;
             }
         };
-        expectedModCount = modCount;
-        return iterator;
     }
 
     private static class Node<T> {

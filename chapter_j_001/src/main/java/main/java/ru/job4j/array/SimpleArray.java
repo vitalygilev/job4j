@@ -7,7 +7,6 @@ public class SimpleArray<T> implements Iterable<T> {
 
     private Object[] objects;
     private int index = 0;
-    private int iteratorIndex = 0;
 
     public SimpleArray(int size) {
         objects = new Object[size + 1];
@@ -46,6 +45,9 @@ public class SimpleArray<T> implements Iterable<T> {
     public Iterator<T> iterator() {
 
         return new Iterator<>() {
+
+            int iteratorIndex = 0;
+
             @Override
             public boolean hasNext() {
                 return iteratorIndex < index;
