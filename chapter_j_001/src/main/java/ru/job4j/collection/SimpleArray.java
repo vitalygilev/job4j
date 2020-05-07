@@ -8,25 +8,19 @@ public class SimpleArray<T> implements Iterable<T> {
     private static final int INITIAL_SIZE = 10;
     private int currentSize = INITIAL_SIZE;
     private long modCount = 0;
-    private long expectedModCount;
     private int currentIndex = 0;
-    private int currentIteratorIndex = 0;
 
     public SimpleArray() {
         elementData = new Object[INITIAL_SIZE];
     }
 
-    public T get(int index) throws IndexOutOfBoundsException {
-        if (index < 0 || index >= currentIndex) {
-            throw new IndexOutOfBoundsException("Index out of bounds!");
-        }
+    public T get(int index) {
+        Objects.checkIndex(index, currentSize);
         return (T) elementData[index];
     }
 
     public void add(T model) {
-        try {
-            Objects.checkIndex(currentIndex + 1, currentSize);
-        } catch (IndexOutOfBoundsException  e) {
+        if (currentIndex == currentSize) {
             grow();
         }
         modCount++;
@@ -41,7 +35,10 @@ public class SimpleArray<T> implements Iterable<T> {
     @Override
     public Iterator<T> iterator() {
 
-        Iterator<T> iterator = new Iterator<>() {
+        return new Iterator<>() {
+
+            long expectedModCount = modCount;
+            int currentIteratorIndex = 0;
 
             @Override
             public boolean hasNext() {
@@ -59,7 +56,5 @@ public class SimpleArray<T> implements Iterable<T> {
                 return (T) elementData[currentIteratorIndex++];
             }
         };
-        expectedModCount = modCount;
-        return iterator;
     }
 }
