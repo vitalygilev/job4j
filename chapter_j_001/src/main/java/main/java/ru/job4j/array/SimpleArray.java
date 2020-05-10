@@ -2,6 +2,7 @@ package main.java.ru.job4j.array;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
+import java.util.Objects;
 
 public class SimpleArray<T> implements Iterable<T> {
 
@@ -13,31 +14,22 @@ public class SimpleArray<T> implements Iterable<T> {
     }
 
     public void add(T model) throws IndexOutOfBoundsException {
-        if (index == objects.length - 1) {
-            throw new IndexOutOfBoundsException("Array overflow!");
-        }
         this.objects[index++] = model;
     }
 
-    public void remove(int position) throws IndexOutOfBoundsException {
-        if  (position < 0 || position >= index) {
-            throw new IndexOutOfBoundsException("Index out of bounds!");
-        }
+    public void remove(int position) {
+        Objects.checkIndex(position, index);
         System.arraycopy(objects, position + 1, objects, position, index - position - 1);
         objects[index--] = null;
     }
 
-    public void set(int position, T model) throws IndexOutOfBoundsException {
-        if (position < 0 || position >= index) {
-            throw new IndexOutOfBoundsException("Index out of bounds!");
-        }
+    public void set(int position, T model) {
+        Objects.checkIndex(position, index);
         objects[position] = model;
     }
 
-    public T get(int position) throws IndexOutOfBoundsException {
-        if (position < 0 || position >= index) {
-            throw new IndexOutOfBoundsException("Index out of bounds!");
-        }
+    public T get(int position) {
+        Objects.checkIndex(position, index);
         return (T) objects[position];
     }
 
