@@ -7,16 +7,20 @@ public class SimpleSet<T> implements Iterable<T> {
     private SimpleArray<T> elements = new SimpleArray<T>();
 
     public void add(T model) {
-        boolean found = false;
+        if (!exists(model)) {
+            elements.add(model);
+        }
+    }
+
+    public boolean exists(T model) {
+        boolean result = false;
         for (T curr : elements) {
             if (curr.equals(model)) {
-                found = true;
+                result = true;
                 break;
             }
         }
-        if (!found) {
-            elements.add(model);
-        }
+        return result;
     }
 
     @Override
