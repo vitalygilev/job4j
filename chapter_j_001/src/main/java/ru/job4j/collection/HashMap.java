@@ -1,16 +1,28 @@
 package ru.job4j.collection;
 
+import java.util.Arrays;
+import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 public class HashMap<K, V> implements Iterable<V> {
 
     private static final int SIZE_OF_BUCKETS_ARRAY = 16;
+    private static final float LOAD_FACTOR = (float) 0.75;
     private Bucket[] buckets;
     private Bucket lastFoundBucket;
+    private int lastBucketIndex;
+    private int size = SIZE_OF_BUCKETS_ARRAY;
+    private int currentBucketElementsCounter = 0;
+    private long modCount = 0;
 
     public HashMap() {
         this.buckets = new Bucket[SIZE_OF_BUCKETS_ARRAY];
+    }
+
+    private void grow() {
+        size = size + size >> 1;
+        buckets = Arrays.copyOf(buckets, size);
     }
 
     public boolean insert(K key, V value) {
@@ -18,9 +30,14 @@ public class HashMap<K, V> implements Iterable<V> {
         Bucket curBucket = getBucket(key);
         if (curBucket == null) {
             result = true;
+            modCount++;
             curBucket = new Bucket(key);
             if (lastFoundBucket == null) {
                 buckets[hash(getHashCode(key))] = curBucket;
+                currentBucketElementsCounter++;
+                if ((double) currentBucketElementsCounter / size >= LOAD_FACTOR) {
+                    grow();
+                }
             } else {
                 lastFoundBucket.next = curBucket;
             }
@@ -34,8 +51,9 @@ public class HashMap<K, V> implements Iterable<V> {
         Bucket curBucket = getBucket(key);
         if (curBucket != null) {
             result = true;
-            if (curBucket.equals(lastFoundBucket)) {
-                buckets[hash(getHashCode(key))] = curBucket.next;
+            modCount++;
+            if (lastBucketIndex != -1) {
+                buckets[lastBucketIndex] = curBucket.next;
             } else {
                 lastFoundBucket.next = curBucket.next;
             }
@@ -52,7 +70,7 @@ public class HashMap<K, V> implements Iterable<V> {
     }
 
     private int hash(int curHash) {
-        return Math.abs(curHash % SIZE_OF_BUCKETS_ARRAY);
+        return Math.abs(curHash % size);
     }
 
     private int getHashCode(K key) {
@@ -66,12 +84,14 @@ public class HashMap<K, V> implements Iterable<V> {
     private Bucket getBucket(K key) {
         int curHash = getHashCode(key);
 
-        Bucket curBucket = buckets[hash(curHash)];
+        lastBucketIndex = hash(curHash);
+        Bucket curBucket = buckets[lastBucketIndex];
         lastFoundBucket = curBucket;
         while (curBucket != null)  {
             if (curBucket.hashCode == curHash && curBucket.key.equals(key)) {
                 break;
             }
+            lastBucketIndex = -1;
             lastFoundBucket = curBucket;
             curBucket = curBucket.next;
         }
@@ -84,10 +104,12 @@ public class HashMap<K, V> implements Iterable<V> {
         return new Iterator<>() {
 
             int currentIteratorIndex = 0;
-            Bucket curBucketInList = null;
+            Bucket curBucketInList;
+            boolean needFindNext = true;
+            long expectedModCount = modCount;
 
             private void findNextBucket() {
-                while (currentIteratorIndex < SIZE_OF_BUCKETS_ARRAY) {
+                while (currentIteratorIndex < size) {
                     if (curBucketInList == null) {
                         if (buckets[currentIteratorIndex] != null) {
                             curBucketInList = buckets[currentIteratorIndex];
@@ -109,8 +131,12 @@ public class HashMap<K, V> implements Iterable<V> {
 
             @Override
             public boolean hasNext() {
-                if (currentIteratorIndex == 0 && curBucketInList == null) {
+                if (modCount != expectedModCount) {
+                    throw new ConcurrentModificationException();
+                }
+                if (needFindNext) {
                     findNextBucket();
+                    needFindNext = false;
                 }
                 return curBucketInList != null;
             }
@@ -120,9 +146,8 @@ public class HashMap<K, V> implements Iterable<V> {
                 if (!hasNext()) {
                     throw new NoSuchElementException();
                 }
-                V result = (V) curBucketInList.value;
-                findNextBucket();
-                return result;
+                needFindNext = true;
+                return (V) curBucketInList.value;
             }
         };
     }
