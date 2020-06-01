@@ -8,14 +8,11 @@ import java.util.stream.Collectors;
 public class Analize {
 
     public Info diff(List<User> previous, List<User> current) {
-
         Map<Integer, User> tmpUsers = previous.stream().collect(Collectors.toMap(User::getId, item -> item));
         Info res = new Info();
-        User curBaseUser;
-
         for (User curUser : current) {
             int curId = curUser.getId();
-            curBaseUser = tmpUsers.get(curId);
+            User curBaseUser = tmpUsers.get(curId);
             if (curBaseUser == null) {
                 res.added++;
             } else {
@@ -93,7 +90,4 @@ public class Analize {
             return Objects.hash(added, changed, deleted);
         }
     }
-
-
-
 }
