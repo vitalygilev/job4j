@@ -14,38 +14,15 @@ public class Config {
         this.path = path;
     }
 
-    private String removeLongComments(String content) {
-        String tmpStr = content;
-        int longCommentPosition = tmpStr.indexOf("/*");
-        while (longCommentPosition != -1) {
-            StringBuilder text = new StringBuilder();
-            text.append(tmpStr, 0, longCommentPosition);
-            int longCommentEndPosition = tmpStr.indexOf("*/");
-            if (longCommentEndPosition != -1) {
-                text.append(tmpStr.substring(longCommentEndPosition + 2));
-            }
-            tmpStr = text.toString();
-            longCommentPosition = tmpStr.indexOf("/*");
-        }
-        return tmpStr;
-    }
-
     public void load() {
-        String[] curContent = removeLongComments(toString()).split(System.lineSeparator());
+        String[] curContent = toString().split(System.lineSeparator());
         for (String tmpStr : curContent) {
-            String strKey = "";
-            String strValue = "";
-            int longCommentPosition = tmpStr.indexOf("//");
-            if (longCommentPosition != -1) {
-                tmpStr = tmpStr.substring(0, longCommentPosition);
-            }
             int eqSignPosition = tmpStr.indexOf("=");
-            if (eqSignPosition != -1) {
-                strKey = tmpStr.substring(0, eqSignPosition).trim();
-                strValue = tmpStr.substring(eqSignPosition + 1).trim();
-            }
-            if (!strKey.isEmpty()) {
-                values.put(strKey, strValue);
+            if (!tmpStr.contains("#") && eqSignPosition != -1) {
+                String strKey = tmpStr.substring(0, eqSignPosition).trim();
+                if (!strKey.isEmpty()) {
+                    values.put(strKey, tmpStr.substring(eqSignPosition + 1).trim());
+                }
             }
         }
     }
