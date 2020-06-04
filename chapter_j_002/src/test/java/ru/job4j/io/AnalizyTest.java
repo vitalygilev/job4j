@@ -9,7 +9,6 @@ public class AnalizyTest {
 
     @Test
     public void whenThereIsACaseOfFailure() {
-
         Analizy cerAnalyser = new Analizy();
         cerAnalyser.unavailable("./data/servlog.log", "./data/unavailable.csv");
         String[] unavailableContent = cerAnalyser.loadSourceFile("./data/unavailable.csv");
