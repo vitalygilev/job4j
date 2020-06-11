@@ -1,0 +1,11 @@
+Bot: Welcome to chat! Say something please!
+User:Привет!
+Bot: Really?
+User:К гадалке не ходи!
+Bot: Perfect!
+User:Достал, стоп!
+User:Эй!
+User:Ты там?
+User:продолжить
+Bot: Are you sure?
+User:Ага, закончить
