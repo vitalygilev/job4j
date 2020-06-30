@@ -1,0 +1,8 @@
+Parameters are invalid:  you can't combine -m, -f and -r (please choose one option!)
+Possible options:
+-d=Directory (searching directory)
+-n=file name (mask or regular expression)
+-m, -f, -r (searching mode - by mask, by certain filename of by regular expression - possible one of options!)
+-o=Filename (Write results to file)
+-h (Show help)
+
