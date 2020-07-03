@@ -1,8 +1,13 @@
-Parameters are invalid:  you can't combine -m, -f and -r (please choose one option!)
-Possible options:
--d=Directory (searching directory)
--n=file name (mask or regular expression)
--m, -f, -r (searching mode - by mask, by certain filename of by regular expression - possible one of options!)
--o=Filename (Write results to file)
--h (Show help)
-
+.\chapter_001\src\main\java\ru\job4j\array\FindLoop.java
+.\chapter_001\src\test\java\ru\job4j\array\FindLoopTest.java
+.\chapter_002\src\main\java\ru\job4j\tracker\FindItemByIdAction.java
+.\chapter_002\src\main\java\ru\job4j\tracker\FindItemsByNameAction.java
+.\chapter_002\src\test\java\ru\job4j\tracker\FindAllActionTest.java
+.\chapter_002\src\test\java\ru\job4j\tracker\FindByNameActionTest.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindFiles.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindHelper.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindOutput.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindParams.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindParamsParser.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindSearcher.java
+.\chapter_j_002\src\main\java\ru\job4j\io\FindValidator.java
