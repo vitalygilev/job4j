@@ -10,6 +10,7 @@
 \Projects\job4j\chapter_j_002\src\main\java\ru\job4j\io\FindParams.java
 \Projects\job4j\chapter_j_002\src\main\java\ru\job4j\io\FindParamsParser.java
 \Projects\job4j\chapter_j_002\src\main\java\ru\job4j\io\FindSearcher.java
+\Projects\job4j\chapter_j_002\src\main\java\ru\job4j\io\FindSearchFilesFactory.java
 \Projects\job4j\chapter_j_002\src\main\java\ru\job4j\io\FindValidator.java
 \projects.old\job4j\chapter_001\src\main\java\ru\job4j\array\FindLoop.java
 \projects.old\job4j\chapter_001\src\test\java\ru\job4j\array\FindLoopTest.java

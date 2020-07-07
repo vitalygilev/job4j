@@ -20,7 +20,13 @@ public class FindFiles {
 
     public static void main(String[] args) throws IOException {
         FindFiles ff = new FindFiles(args);
-        FindSearcher.search(ff);
+        if (FindValidator.valid(ff.params)) {
+            FindSearcher.search(ff);
+        } else {
+            FindOutput.outputString("Parameters are invalid: " + ff.params.getError() + "\n" + FindHelper.getHelpText());
+        }
+        FindOutput.closeSearch(ff);
+        System.out.println("Done!");
     }
 
 }

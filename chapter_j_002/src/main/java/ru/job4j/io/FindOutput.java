@@ -4,28 +4,23 @@ import java.io.BufferedOutputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
+import java.util.LinkedList;
 
 public class FindOutput {
 
-    public static void initiate(FindFiles ff) throws FileNotFoundException {
+    private static LinkedList<String> outputLog = new LinkedList<>();
+
+    public static void outputString(String outString) {
+        outputLog.add(outString);
+    }
+
+    public static void closeSearch(FindFiles ff) throws FileNotFoundException {
         if (ff.params.getOutput() != null) {
-            ff.params.setOutputFile(new PrintWriter(new BufferedOutputStream(new FileOutputStream(ff.params.getOutput()))));
-        }
-    }
-
-    public static void outputString(String outString, FindFiles ff) {
-        PrintWriter outputFile = ff.params.getOutputFile();
-        if (outputFile == null) {
-            System.out.println(outString);
-        } else {
-            outputFile.println(outString);
-        }
-    }
-
-    public static void closeFile(FindFiles ff) {
-        PrintWriter outputFile = ff.params.getOutputFile();
-        if (outputFile != null) {
+            PrintWriter outputFile = new PrintWriter(new BufferedOutputStream(new FileOutputStream(ff.params.getOutput())));
+            outputLog.forEach(outputFile::println);
             outputFile.close();
+        } else {
+            outputLog.forEach(System.out::println);
         }
     }
 }

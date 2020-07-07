@@ -1,7 +1,5 @@
 package ru.job4j.io;
 
-import java.io.PrintWriter;
-
 public class FindParams {
 
     private String directory = ".";
@@ -9,7 +7,6 @@ public class FindParams {
     private int searchMode = 0;
     private String output;
     private String error = "";
-    private PrintWriter outputFile = null;
     private boolean showHelp = false;
 
     public String getDirectory() {
@@ -50,14 +47,6 @@ public class FindParams {
 
     public void setError(String error) {
         this.error = error;
-    }
-
-    public PrintWriter getOutputFile() {
-        return outputFile;
-    }
-
-    public void setOutputFile(PrintWriter outputFile) {
-        this.outputFile = outputFile;
     }
 
     public boolean isShowHelp() {
