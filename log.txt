@@ -1,0 +1,1846 @@
+c:\AMD\RyzenMasterExtract\RMExtraction.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\aopalliance.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\apache-2.0.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\boost.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\curl.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\icu.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\jsoncpp.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libpng.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libssh.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libtiff.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libxdiff.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libxml2.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\libxslt.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\openssl.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\postgresql.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\proj4.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\slf4j.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\sqlite.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\sqljdbc.txt
+c:\Program Files\1cv8\8.3.12.1685\licenses\3rd_party\zlib.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\aopalliance.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\apache-2.0.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\boost.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\curl.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\diff-match-patch.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\icu.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\jsoncpp.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libpng.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libssh.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libtiff.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libxdiff.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libxml2.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\libxslt.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\openssl.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\postgresql.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\proj4.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\slf4j.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\sqlite.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\sqljdbc.txt
+c:\Program Files\1cv8\8.3.15.1565\licenses\3rd_party\zlib.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\aopalliance.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\apache-2.0.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\boost.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\curl.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\diff-match-patch.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\icu.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\jsoncpp.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libpng.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libssh.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libtiff.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libxdiff.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libxml2.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\libxslt.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\openssl.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\postgresql.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\proj4.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\slf4j.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\sqlite.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\sqljdbc.txt
+c:\Program Files\1cv8\8.3.15.1747\licenses\3rd_party\zlib.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\aopalliance.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\apache-2.0.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\boost.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\curl.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\diff-match-patch.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\icu.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\jsoncpp.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libpng.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libssh.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libtiff.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libxdiff.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libxml2.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\libxslt.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\openssl.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\postgresql.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\proj4.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\slf4j.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\sqlite.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\sqljdbc.txt
+c:\Program Files\1cv8\8.3.16.1063\licenses\3rd_party\zlib.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\almarai.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\aopalliance.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\apache-2.0.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\boost.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\curl.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\diff-match-patch.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\html2canvas.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\icu.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\jsoncpp.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\jszip.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libgsf.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libpng.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libssh.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libtiff.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libunwind.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libuuid.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libxdiff.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libxml2.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\libxslt.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\openssl.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\postgresql.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\proj4.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\slf4j.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\sqlite.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\sqljdbc.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\WebKit.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\websocketpp.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\wxWidgets.txt
+c:\Program Files\1cv8\8.3.17.1496\licenses\3rd_party\zlib.txt
+c:\Program Files\AMD\CIM\Config\vollist.txt
+c:\Program Files\AMD\RyzenMaster\logs\май 22,2020(08_05_20).txt
+c:\Program Files\Common Files\microsoft shared\ink\ThirdPartyNotices.MSHWLatin.txt
+c:\Program Files\Far Manager\Documentation\eng\Bug.Report.txt
+c:\Program Files\Far Manager\Documentation\eng\Far.FAQ.txt
+c:\Program Files\Far Manager\Documentation\eng\Plugins.Install.txt
+c:\Program Files\Far Manager\Documentation\eng\Plugins.Review.txt
+c:\Program Files\Far Manager\Documentation\eng\TechInfo.txt
+c:\Program Files\Far Manager\Documentation\rus\Bug.Report.txt
+c:\Program Files\Far Manager\Documentation\rus\Far.FAQ.txt
+c:\Program Files\Far Manager\Documentation\rus\Plugins.Install.txt
+c:\Program Files\Far Manager\Documentation\rus\Plugins.Review.txt
+c:\Program Files\Far Manager\Documentation\rus\TechInfo.txt
+c:\Program Files\Far Manager\Plugins\FarColorer\history.ru.txt
+c:\Program Files\Far Manager\Plugins\NetBox\LICENSE.txt
+c:\Program Files\Git\etc\install-options.txt
+c:\Program Files\Git\etc\package-versions.txt
+c:\Program Files\Git\LICENSE.txt
+c:\Program Files\Git\mingw64\doc\git-credential-manager\LICENSE.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-1.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-10.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-11.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-13.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-14.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-15.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-16.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-2.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-3.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-4.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-5.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-6.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-7.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-8.txt
+c:\Program Files\Git\mingw64\share\antiword\8859-9.txt
+c:\Program Files\Git\mingw64\share\antiword\cp1250.txt
+c:\Program Files\Git\mingw64\share\antiword\cp1251.txt
+c:\Program Files\Git\mingw64\share\antiword\cp1252.txt
+c:\Program Files\Git\mingw64\share\antiword\cp437.txt
+c:\Program Files\Git\mingw64\share\antiword\cp850.txt
+c:\Program Files\Git\mingw64\share\antiword\cp852.txt
+c:\Program Files\Git\mingw64\share\antiword\cp862.txt
+c:\Program Files\Git\mingw64\share\antiword\cp864.txt
+c:\Program Files\Git\mingw64\share\antiword\cp866.txt
+c:\Program Files\Git\mingw64\share\antiword\koi8-r.txt
+c:\Program Files\Git\mingw64\share\antiword\koi8-u.txt
+c:\Program Files\Git\mingw64\share\antiword\MacCyrillic.txt
+c:\Program Files\Git\mingw64\share\antiword\MacRoman.txt
+c:\Program Files\Git\mingw64\share\antiword\roman.txt
+c:\Program Files\Git\mingw64\share\antiword\UTF-8.txt
+c:\Program Files\Git\mingw64\share\doc\connect\manual.txt
+c:\Program Files\Git\mingw64\share\doc\xz\examples\00_README.txt
+c:\Program Files\Git\mingw64\share\doc\xz\faq.txt
+c:\Program Files\Git\mingw64\share\doc\xz\history.txt
+c:\Program Files\Git\mingw64\share\doc\xz\lzma-file-format.txt
+c:\Program Files\Git\mingw64\share\doc\xz\xz-file-format.txt
+c:\Program Files\Git\mingw64\share\git\builtins.txt
+c:\Program Files\Git\usr\bin\docx2txt
+c:\Program Files\Git\usr\share\gnupg\help.be.txt
+c:\Program Files\Git\usr\share\gnupg\help.ca.txt
+c:\Program Files\Git\usr\share\gnupg\help.cs.txt
+c:\Program Files\Git\usr\share\gnupg\help.da.txt
+c:\Program Files\Git\usr\share\gnupg\help.de.txt
+c:\Program Files\Git\usr\share\gnupg\help.el.txt
+c:\Program Files\Git\usr\share\gnupg\help.eo.txt
+c:\Program Files\Git\usr\share\gnupg\help.es.txt
+c:\Program Files\Git\usr\share\gnupg\help.et.txt
+c:\Program Files\Git\usr\share\gnupg\help.fi.txt
+c:\Program Files\Git\usr\share\gnupg\help.fr.txt
+c:\Program Files\Git\usr\share\gnupg\help.gl.txt
+c:\Program Files\Git\usr\share\gnupg\help.hu.txt
+c:\Program Files\Git\usr\share\gnupg\help.id.txt
+c:\Program Files\Git\usr\share\gnupg\help.it.txt
+c:\Program Files\Git\usr\share\gnupg\help.ja.txt
+c:\Program Files\Git\usr\share\gnupg\help.nb.txt
+c:\Program Files\Git\usr\share\gnupg\help.pl.txt
+c:\Program Files\Git\usr\share\gnupg\help.pt.txt
+c:\Program Files\Git\usr\share\gnupg\help.pt_BR.txt
+c:\Program Files\Git\usr\share\gnupg\help.ro.txt
+c:\Program Files\Git\usr\share\gnupg\help.ru.txt
+c:\Program Files\Git\usr\share\gnupg\help.sk.txt
+c:\Program Files\Git\usr\share\gnupg\help.sv.txt
+c:\Program Files\Git\usr\share\gnupg\help.tr.txt
+c:\Program Files\Git\usr\share\gnupg\help.txt
+c:\Program Files\Git\usr\share\gnupg\help.zh_CN.txt
+c:\Program Files\Git\usr\share\gnupg\help.zh_TW.txt
+c:\Program Files\Git\usr\share\licenses\ncurses\license.txt
+c:\Program Files\Git\usr\share\licenses\vim\license.txt
+c:\Program Files\Git\usr\share\perl5\core_perl\unicore\Blocks.txt
+c:\Program Files\Git\usr\share\perl5\core_perl\unicore\NamedSequences.txt
+c:\Program Files\Git\usr\share\perl5\core_perl\unicore\SpecialCasing.txt
+c:\Program Files\Git\usr\share\vim\vim82\autoload\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\colors\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\compiler\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\arabic.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\autocmd.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\change.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\channel.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\cmdline.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\debug.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\debugger.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\develop.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\diff.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\digraph.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\editing.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\eval.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\farsi.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\filetype.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\fold.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\ft_ada.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\ft_rust.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\ft_sql.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\gui.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\gui_w32.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\gui_x11.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\hangulin.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\hebrew.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\help.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\helphelp.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\howto.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_cscop.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_lua.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_mzsch.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_ole.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_perl.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_pyth.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_ruby.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_sniff.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\if_tcl.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\indent.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\index.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\insert.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\intro.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\map.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\mbyte.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\message.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\mlang.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\motion.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\netbeans.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\options.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_390.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_amiga.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_beos.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_dos.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_mac.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_mint.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_msdos.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_os2.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_qnx.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_risc.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_unix.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_vms.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\os_win32.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pattern.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_getscript.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_gzip.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_logipat.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_netrw.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_paren.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_spec.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_tar.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_vimball.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\pi_zip.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\popup.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\print.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\quickfix.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\quickref.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\quotes.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\recover.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\remote.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\repeat.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\rileft.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\russian.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\scroll.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\sign.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\spell.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\sponsor.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\starting.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\syntax.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\tabpage.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\tagsrch.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\term.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\terminal.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\testing.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\textprop.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\tips.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\todo.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\uganda.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\undo.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_01.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_02.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_03.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_04.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_05.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_06.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_07.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_08.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_09.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_10.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_11.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_12.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_20.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_21.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_22.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_23.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_24.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_25.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_26.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_27.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_28.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_29.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_30.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_31.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_32.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_40.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_41.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_42.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_43.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_44.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_45.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_90.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\usr_toc.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\various.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\version4.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\version5.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\version6.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\version7.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\version8.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\visual.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\vi_diff.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\windows.txt
+c:\Program Files\Git\usr\share\vim\vim82\doc\workshop.txt
+c:\Program Files\Git\usr\share\vim\vim82\ftplugin\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\indent\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\keymap\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\lang\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\macros\maze\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\macros\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\macros\urm\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\pack\dist\opt\matchit\doc\matchit.txt
+c:\Program Files\Git\usr\share\vim\vim82\plugin\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\rgb.txt
+c:\Program Files\Git\usr\share\vim\vim82\syntax\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\tools\ccfilter_README.txt
+c:\Program Files\Git\usr\share\vim\vim82\tools\efm_filter.txt
+c:\Program Files\Git\usr\share\vim\vim82\tools\mve.txt
+c:\Program Files\Git\usr\share\vim\vim82\tools\README.txt
+c:\Program Files\Git\usr\share\vim\vim82\tools\vimspell.txt
+c:\Program Files\Git\usr\share\vim\vim82\tutor\README.el.cp737.txt
+c:\Program Files\Git\usr\share\vim\vim82\tutor\README.el.txt
+c:\Program Files\Git\usr\share\vim\vim82\tutor\README.txt
+c:\Program Files\Java\jdk-14.0.1\conf\security\policy\README.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\build.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\jbr\conf\security\policy\README.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\jbr\lib\server\Xusage.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\ant_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\asm_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\eclipse_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\eclipse_license2.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\gson_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\imgscalr_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\javahelp_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\javolution_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\jaxb_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\jaxen_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\jdom_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\jgoodies_forms_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\junit_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\kryo-license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\log4j_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\microba_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\miglayout_swing_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\nanoxml_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\oromatcher_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\picoContainer_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\swingx_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\trove4j_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\winp_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\xerces_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\xmlrpc_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\XStream_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\license\yourkit-license-redist.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\NOTICE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\build.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\COPYRIGHT.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\NOTICE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\aosp_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\args4j_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\asm_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\boost_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\closure-compiler_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\dart_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\gradle_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\guava_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\gwt_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\jquery_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\jshashtable_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\karma-teamcity-reporter_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\karma_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\lodash_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\maven_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\mocha-teamcity-reporter_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\pcollections_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\prototype_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\qunit_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\rhino_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\scala_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\source-map-loader_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\teamcity-service-messages_LICENSE.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\dagger_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\eclipse_distribution_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\eclipse_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\findbugs_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\lombok_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\rxjava_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\testdata\spring_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\trove_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\Kotlin\kotlinc\license\third_party\trove_readme_license.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\maven\lib\maven3\lib\ext\README.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\maven\lib\maven3\lib\jansi-native\README.txt
+c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\maven\lib\maven3\README.txt
+c:\Program Files\Microsoft Office\Office16\Configuration\card_expiration_terms_dict.txt
+c:\Program Files\Microsoft Office\Office16\Configuration\card_security_terms_dict.txt
+c:\Program Files\Microsoft Office\Office16\Configuration\card_terms_dict.txt
+c:\Program Files\Microsoft Office\Office16\Configuration\ssn_high_group_info.txt
+c:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{F6A9944C-61DB-4528-832F-17578E9ECFCC}\license.txt
+c:\Program Files\NVIDIA Corporation\Installer2\installer.{5491426B-15EF-4E00-B236-976830C45C1C}\EULA.txt
+c:\Program Files\NVIDIA Corporation\Installer2\installer.{5491426B-15EF-4E00-B236-976830C45C1C}\GFExperience\FunctionalConsent_ru-RU.txt
+c:\Program Files\NVIDIA Corporation\Installer2\installer.{7A15DEC0-F93C-473C-9816-3382D176B889}\EULA.txt
+c:\Program Files\NVIDIA Corporation\Installer2\installer.{7A15DEC0-F93C-473C-9816-3382D176B889}\GFExperience\FunctionalConsent_ru-RU.txt
+c:\Program Files\NVIDIA Corporation\license.txt
+c:\Program Files\Paint.NET\License.txt
+c:\Program Files\Paint.NET\Resources\en-US\copying.txt
+c:\Program Files\PostgreSQL\12\commandlinetools_3rd_party_licenses.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\add_restore_point_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\backup_and_restore.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\backup_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\backup_globals_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\backup_server_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\cast_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\change_password_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\change_user_password.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\check_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\clear_saved_passwords.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\code_overview.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\code_review.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\coding_standards.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\collation_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\column_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\compound_trigger_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\config_py.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\connecting.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\connect_error.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\connect_to_server.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\container_deployment.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\contributions.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\database_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\debugger.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\deployment.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\desktop_deployment.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\developer_tools.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\domain_constraint_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\domain_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\editgrid.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\enabling_ldap_authentication.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\event_trigger_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\exclusion_constraint_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\extension_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\foreign_data_wrapper_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\foreign_key_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\foreign_server_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\foreign_table_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\fts_configuration_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\fts_dictionary_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\fts_parser_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\fts_template_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\function_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\getting_started.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\grant_wizard.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\import_export_data.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\import_export_servers.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\index.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\index_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\keyboard_shortcuts.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\language_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\licence.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\login.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\maintenance_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\management_basics.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\managing_cluster_objects.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\managing_database_objects.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\master_password.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\materialized_view_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\menu_bar.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\modifying_tables.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\move_objects.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\package_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\pgagent.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\pgagent_install.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\pgagent_jobs.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\preferences.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\primary_key_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\procedure_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\query_tool.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\query_tool_toolbar.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_0.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_1.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_2.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_3.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_4.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_5.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_1_6.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_2_0.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_2_1.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_0.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_1.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_2.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_3.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_4.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_5.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_3_6.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_0.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_1.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_10.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_11.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_12.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_13.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_14.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_15.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_16.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_17.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_18.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_19.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_2.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_20.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_21.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_3.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_4.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_5.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_6.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_7.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_8.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\release_notes_4_9.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\resource_group_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\restore_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\role_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\rule_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\schema_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\schema_diff.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\search_objects.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\sequence_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\server_deployment.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\server_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\server_group_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\submitting_patches.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\synonym_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\tabbed_browser.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\tablespace_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\table_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\toolbar.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\translations.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\tree_control.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\trigger_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\trigger_function_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\type_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\unique_constraint_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\user_interface.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\user_management.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\user_mapping_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\using_pgagent.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\viewdata_filter.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\docs\en_US\html\_sources\view_dialog.rst.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\CREDITS.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\extend.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\HISTORY.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\idle_test\README.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\NEWS.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\NEWS2x.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\README.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\idlelib\TODO.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\lib2to3\Grammar.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\lib2to3\PatternGrammar.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\no-global-site-packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\orig-prefix.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\alabaster-0.7.12.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\alabaster-0.7.12.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\alabaster-0.7.12.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\alembic-1.4.2.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\alembic-1.4.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Babel-2.8.0.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Babel-2.8.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\bcrypt-3.1.7.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\blinker-1.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\certifi-2020.4.5.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\cffi-1.14.0.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\cffi-1.14.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\chardet-3.0.4.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\chardet-3.0.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\click-7.1.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\colorama-0.4.3.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\colorama-0.4.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\cryptography-2.9.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\dnspython-1.16.0.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\dnspython-1.16.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isoamsa.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isoamsb.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isoamsc.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isoamsn.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isoamso.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isoamsr.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isobox.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isocyr1.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isocyr2.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isodia.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isogrk1.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isogrk2.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isogrk3.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isogrk4-wide.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isogrk4.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isolat1.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isolat2.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isomfrk-wide.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isomfrk.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isomopf-wide.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isomopf.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isomscr-wide.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isomscr.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isonum.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isopub.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\isotech.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\mmlalias.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\mmlextra-wide.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\mmlextra.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\README.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\s5defs.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\xhtml1-lat1.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\xhtml1-special.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\parsers\rst\include\xhtml1-symbol.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\writers\html4css1\template.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\writers\html5_polyglot\template.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\writers\pep_html\template.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils\writers\s5_html\themes\README.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils-0.16.dist-info\COPYING.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\docutils-0.16.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\email_validator-1.1.0.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\email_validator-1.1.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask-1.0.2.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask-1.0.2.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask-1.0.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_BabelEx-0.9.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Compress-1.4.0.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Compress-1.4.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Gravatar-0.5.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Login-0.4.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Mail-0.9.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Migrate-2.4.0.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Migrate-2.4.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Paranoid-0.2.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Principal-0.4.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\change_notice.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\confirmation_instructions.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\login_instructions.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\reset_instructions.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\reset_notice.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\two_factor_instructions.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\two_factor_rescue.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\us_instructions.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\flask_security\templates\security\email\welcome.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_Security_Too-3.4.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_SQLAlchemy-2.4.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Flask_WTF-0.14.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\idna-2.9.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\imagesize-1.2.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\itsdangerous-1.1.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Jinja2-2.11.2.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Jinja2-2.11.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\ldap3-2.7.dist-info\COPYING.LESSER.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\ldap3-2.7.dist-info\COPYING.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\ldap3-2.7.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\ldap3-2.7.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Mako-1.1.2.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Mako-1.1.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\MarkupSafe-1.1.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\packaging-20.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\paramiko-2.7.1.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\paramiko-2.7.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\passlib\_data\wordsets\bip39.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\passlib\_data\wordsets\eff_long.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\passlib\_data\wordsets\eff_prefixed.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\passlib\_data\wordsets\eff_short.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\passlib-1.7.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip\_vendor\vendor.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip-19.0.3.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip-19.0.3.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip-19.0.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip-20.1.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip-20.1.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pip-20.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\psutil-5.7.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\psycopg2-2.8.5.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pyasn1-0.4.8.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pycparser-2.20.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Pygments-2.6.1.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Pygments-2.6.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\PyNaCl-1.3.0.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\PyNaCl-1.3.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pyparsing-2.4.7.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\python_dateutil-2.8.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\python_editor-1.0.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pytz-2018.9.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\pytz-2018.9.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\README.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\requests-2.23.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\setuptools-40.8.0.dist-info\dependency_links.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\setuptools-40.8.0.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\setuptools-40.8.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\setuptools-46.2.0.dist-info\dependency_links.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\setuptools-46.2.0.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\setuptools-46.2.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\simplejson-3.16.0.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\simplejson-3.16.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\six-1.14.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\snowballstemmer-2.0.0.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\speaklater-1.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_applehelp-1.0.2.dist-info\namespace_packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_applehelp-1.0.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_devhelp-1.0.2.dist-info\namespace_packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_devhelp-1.0.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_htmlhelp-1.0.3.dist-info\namespace_packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_htmlhelp-1.0.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_jsmath-1.0.1.dist-info\namespace_packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_jsmath-1.0.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_qthelp-1.0.3.dist-info\namespace_packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_qthelp-1.0.3.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_serializinghtml-1.1.4.dist-info\namespace_packages.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sphinxcontrib_serializinghtml-1.1.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\SQLAlchemy-1.3.16.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sqlparse-0.2.4.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sqlparse-0.2.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sshtunnel-0.1.5.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\sshtunnel-0.1.5.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\urllib3-1.25.9.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\urllib3-1.25.9.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\virtualenv-16.7.4.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\virtualenv-16.7.4.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\virtualenv-16.7.4.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\Werkzeug-1.0.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\wheel-0.34.2.dist-info\entry_points.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\wheel-0.34.2.dist-info\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\wheel-0.34.2.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\Lib\site-packages\WTForms-2.2.1.dist-info\top_level.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\venv\LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\browser\server_groups\servers\databases\schemas\types\templates\types\sql\postgres_inbuit_types.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\static\js\generated\file_utils.js.LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\static\js\generated\slickgrid.js.LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\static\js\generated\vendor.main.js.LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\static\js\generated\vendor.others.js.LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\static\js\generated\vendors~geometry.chunk.js.LICENSE.txt
+c:\Program Files\PostgreSQL\12\pgAdmin 4\web\pgadmin\templates\security\email\change_notice.txt
+c:\Program Files\PostgreSQL\12\pgAdmin_3rd_party_licenses.txt
+c:\Program Files\PostgreSQL\12\pgAdmin_license.txt
+c:\Program Files\PostgreSQL\12\server_license.txt
+c:\Program Files\PostgreSQL\12\share\errcodes.txt
+c:\Program Files\PostgreSQL\12\share\sql_features.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Africa.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\America.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Antarctica.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Asia.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Atlantic.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Australia.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Etc.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Europe.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Indian.txt
+c:\Program Files\PostgreSQL\12\share\timezonesets\Pacific.txt
+c:\Program Files\PostgreSQL\12\StackBuilder_3rd_party_licenses.txt
+c:\Program Files\Windows Defender\ThirdPartyNotices.txt
+c:\Program Files\Windows NT\TableTextService\TableTextServiceArray.txt
+c:\Program Files\Windows NT\TableTextService\TableTextServiceDaYi.txt
+c:\Program Files\Windows NT\TableTextService\TableTextServiceTigrinya.txt
+c:\Program Files\Windows NT\TableTextService\TableTextServiceYi.txt
+c:\Program Files\WindowsApps\Microsoft.Messaging_4.1901.10241.0_x64__8wekyb3d8bbwe\_Resources\index.txt
+c:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.2.11280.0_x86__8wekyb3d8bbwe\ThirdPartyNotices.txt
+c:\Program Files\WindowsApps\Microsoft.Print3D_3.3.311.0_x64__8wekyb3d8bbwe\Common\ReadMe.txt
+c:\Program Files\WindowsApps\Microsoft.Print3D_3.3.311.0_x64__8wekyb3d8bbwe\GCode.txt
+c:\Program Files\WindowsApps\Microsoft.ScreenSketch_10.1811.3471.0_x64__8wekyb3d8bbwe\ScreenSketchAppService\ReadMe.txt
+c:\Program Files\WindowsApps\Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe\_Resources\index.txt
+c:\Program Files\WindowsApps\Microsoft.VP9VideoExtensions_1.0.13333.0_x64__8wekyb3d8bbwe\Third Party Notices.txt
+c:\Program Files\WindowsApps\Microsoft.WebMediaExtensions_1.0.13321.0_x64__8wekyb3d8bbwe\Third Party Notices.txt
+c:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.1811.10571.0_x64__8wekyb3d8bbwe\_Resources\index.txt
+c:\Program Files\WindowsApps\Microsoft.WindowsMaps_5.1812.10071.0_x64__8wekyb3d8bbwe\AppCore\Location\Shifter\Relicensing Statement.txt
+c:\Program Files\WindowsApps\Microsoft.XboxApp_48.48.7001.0_x64__8wekyb3d8bbwe\_Resources\index.txt
+c:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_BeforeEach_AfterEach.help.txt
+c:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_Mocking.help.txt
+c:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_Pester.help.txt
+c:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_should.help.txt
+c:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_TestDrive.help.txt
+c:\Program Files\WinRAR\License.txt
+c:\Program Files\WinRAR\Rar.txt
+c:\Program Files\WinRAR\ReadMe.rus.txt
+c:\Program Files\WinRAR\ReadMe.txt
+c:\Program Files\WinRAR\WhatsNew.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\aopalliance.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\apache-2.0.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\boost.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\curl.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\icu.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\jsoncpp.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libpng.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libssh.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libtiff.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libxdiff.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libxml2.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\libxslt.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\openssl.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\postgresql.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\proj4.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\slf4j.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\sqlite.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\sqljdbc.txt
+c:\Program Files (x86)\1cv8\8.3.12.1685\licenses\3rd_party\zlib.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\aopalliance.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\apache-2.0.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\boost.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\curl.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\diff-match-patch.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\icu.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\jsoncpp.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libpng.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libssh.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libtiff.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libxdiff.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libxml2.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\libxslt.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\openssl.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\postgresql.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\proj4.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\slf4j.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\sqlite.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\sqljdbc.txt
+c:\Program Files (x86)\1cv8\8.3.15.1747\licenses\3rd_party\zlib.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\aopalliance.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\apache-2.0.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\boost.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\curl.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\diff-match-patch.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\icu.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\jsoncpp.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libpng.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libprotobuf-lite.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libssh.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libtiff.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libxdiff.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libxml2.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\libxslt.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\openssl.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\postgresql-jdbc.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\postgresql.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\proj4.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\slf4j.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\sqlite.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\sqljdbc.txt
+c:\Program Files (x86)\1cv8\8.3.16.1063\licenses\3rd_party\zlib.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\apache-2.0.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\boost.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\curl.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\icu.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\info-zip.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\libpng.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\libtiff.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\libxml2.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\libxslt.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\openssl.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\postgresql.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\proj4.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\stlport.txt
+c:\Program Files (x86)\1cv82\8.2.19.80\licenses\3rd_party\zlib.txt
+c:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\COPYING.LGPLv2.1.txt
+c:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\LICENSE.txt
+c:\Program Files (x86)\Adobe\Acrobat Reader DC\Resource\TypeSupport\Unicode\Mappings\Adobe\symbol.txt
+c:\Program Files (x86)\Adobe\Acrobat Reader DC\Resource\TypeSupport\Unicode\Mappings\Adobe\zdingbat.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\LanguageNames2\DisplayLanguageNames.ru.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\LanguageNames2\DisplayLanguageNames.ru_RU.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\LanguageNames2\DisplayLanguageNames.ru_UA.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\Providers\Adobe\Products.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Abbreviations\ru_RU\List.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\ru_RU\note_en.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\ru_RU\note_ru.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries\ru_RU\added.txt
+c:\Program Files (x86)\Common Files\Adobe\Reader\DC\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\SupplementalDictionaries\ru_RU\excluded.txt
+c:\Program Files (x86)\Common Files\Microsoft Shared\ink\ThirdPartyNotices.MSHWLatin.txt
+c:\Program Files (x86)\STDU Viewer\Лицензионное соглашение (некоммерческое использование).txt
+c:\Program Files (x86)\Winamp\Plugins\freeform\xml\about\BarcodeFont.txt
+c:\Program Files (x86)\Winamp\whatsnew.txt
+c:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceArray.txt
+c:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceDaYi.txt
+c:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceTigrinya.txt
+c:\Program Files (x86)\Windows NT\TableTextService\TableTextServiceYi.txt
+c:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_BeforeEach_AfterEach.help.txt
+c:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_Mocking.help.txt
+c:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_Pester.help.txt
+c:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_should.help.txt
+c:\Program Files (x86)\WindowsPowerShell\Modules\Pester\3.4.0\en-US\about_TestDrive.help.txt
+c:\ProgramData\Microsoft\Diagnosis\osver.txt
+c:\ProgramData\Microsoft\Windows\Models\SBCModel.txt
+c:\ProgramData\Microsoft\Windows Defender\Platform\4.18.1911.3-0\ThirdPartyNotices.txt
+c:\Projects\job4j\.idea\checkstyleidea-libs\readme.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.array.EvenItTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.DeleteFirstLinkedTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.ForwardLinkedOneWayTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.MapTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.SimpleArrayTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.SimpleLinkedListTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.SimpleQueueTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.SimpleSetTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.collection.SimpleStackTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.generic.MemStoreTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.generic.RoleStoreTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\ru.job4j.generic.UserStoreTest.txt
+c:\Projects\job4j\chapter_j_001\target\surefire-reports\test.java.ru.job4j.array.SimpleArrayTest.txt
+c:\Projects\job4j\chapter_j_002\Data\answers.txt
+c:\Projects\job4j\chapter_j_002\Data\chat_log.txt
+c:\Projects\job4j\chapter_j_002\target\surefire-reports\ru.job4j.io.AbuseTest.txt
+c:\Projects\job4j\chapter_j_002\target\surefire-reports\ru.job4j.io.AnalizyTest.txt
+c:\Projects\job4j\chapter_j_002\target\surefire-reports\ru.job4j.io.ConfigTest.txt
+c:\Projects\job4j\even.txt
+c:\Projects\job4j\input.txt
+c:\Projects\tt.txt
+c:\projects.old\games_oop_javafx\chess\target\surefire-reports\ru.job4j.AppTest.txt
+c:\projects.old\games_oop_javafx\tictactoe\target\surefire-reports\job4j.tictactoe.Logic3TTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.ArrayCharTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.CheckTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.DefragmentTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.EndsWithTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.FindLoopTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.MatrixCheckTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.MatrixTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.MergeTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.MinDiapasonTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.MinTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.SortSelectedTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.SquareTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.array.TurnTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.calculator.FitTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.DummyBotTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.MaxTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.MultiMaxTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.PointTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.SqAreaTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.SqMaxTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.condition.TriangleTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.converter.ConverterTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.loop.CheckPrimeNumberTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.loop.CounterTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.loop.FactorialTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.loop.FitnessTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.loop.MortgageTest.txt
+c:\projects.old\job4j\chapter_001\target\surefire-reports\ru.job4j.loop.PrimeNumberTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.pseudo.PaintTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.pseudo.SquareTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.pseudo.TriangleTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.FindAllActionTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.FindByNameActionTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.StartUITest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.TrackerSingletonEnumEagerTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.TrackerSingletonStaticFieldLazyTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.TrackerSingletonStaticFinalClassLazyTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.TrackerSingletonStaticFinalFieldEagerTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.TrackerTest.txt
+c:\projects.old\job4j\chapter_002\target\surefire-reports\ru.job4j.tracker.ValidateInputTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\banking.BankTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.list.ConvertList2ArrayTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.list.ConvertListTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.list.ConvertMatrix2ListTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.list.SortUserTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.list.StringsCompareTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.list.UserConvertTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.search.PhoneDictionaryTest.txt
+c:\projects.old\job4j\chapter_003\target\surefire-reports\ru.job4j.search.PriorityQueueTest.txt
+c:\projects.old\job4j\chapter_004\target\surefire-reports\ru.job4j.CalculatorTest.txt
+c:\projects.old\job4j\chapter_004\target\surefire-reports\ru.job4j.DiapasonTest.txt
+c:\projects.old\job4j\chapter_004\target\surefire-reports\ru.job4j.ProfilesTest.txt
+c:\projects.old\job4j\chapter_004\target\surefire-reports\ru.job4j.SchoolMapTest.txt
+c:\projects.old\job4j\chapter_004\target\surefire-reports\ru.job4j.SchoolTest.txt
+c:\tools\curl-7.70.0-win64-mingw\BUILD-README.txt
+c:\tools\curl-7.70.0-win64-mingw\CHANGES.txt
+c:\tools\curl-7.70.0-win64-mingw\COPYING-brotli.txt
+c:\tools\curl-7.70.0-win64-mingw\COPYING-libssh2.txt
+c:\tools\curl-7.70.0-win64-mingw\COPYING-nghttp2.txt
+c:\tools\curl-7.70.0-win64-mingw\COPYING-zlib.txt
+c:\tools\curl-7.70.0-win64-mingw\COPYING.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\BUGS.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\FAQ.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\FEATURES.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\INSTALL.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\KNOWN_BUGS.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\libcurl\ABI.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\libcurl\symbols-in-versions.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\MAIL-ETIQUETTE.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\RESOURCES.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\THANKS.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\TheArtOfHttpScripting.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\TODO.txt
+c:\tools\curl-7.70.0-win64-mingw\docs\VERSIONS.txt
+c:\tools\curl-7.70.0-win64-mingw\LICENSE-openssl.txt
+c:\tools\curl-7.70.0-win64-mingw\README.txt
+c:\tools\curl-7.70.0-win64-mingw\RELEASE-NOTES.txt
+c:\Users\amg\AppData\Local\Google\Chrome\User Data\chrome_shutdown_ms.txt
+c:\Users\amg\AppData\Local\Google\Chrome\User Data\Subresource Filter\Unindexed Rules\9.10.1\LICENSE.txt
+c:\Users\amg\AppData\Local\Microsoft\Internet Explorer\brndlog.txt
+c:\Users\amg\AppData\Local\Microsoft\OneDrive\19.002.0107.0005\ThirdPartyNotices.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cache\7BUDG1YT\f[1].txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cache\7BUDG1YT\f[2].txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cache\Q1JKEBMG\f[1].txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cache\Q1JKEBMG\f[2].txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask02_29_16_20_06_5821.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask02_29_16_31_17_0053.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask02_29_16_42_58_0194.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask03_02_08_08_53_1108.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask03_02_08_32_59_6408.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask04_06_14_48_36_8907.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask04_06_14_49_08_9588.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.PostInstallationTask02_29_16_04_05_1231.txt
+c:\Users\amg\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+c:\Users\amg\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200229\DatastoreBackup\schema.txt
+c:\Users\amg\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200229\MicrosoftEdgeSettingsBackup.txt
+c:\Users\User\AppData\Local\Microsoft\Internet Explorer\brndlog.txt
+c:\Users\User\AppData\Local\Microsoft\OneDrive\19.002.0107.0005\ThirdPartyNotices.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask02_29_15_06_42_6045.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask02_29_15_09_06_4214.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.PostInstallationTask02_29_14_51_21_5691.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\AppIconCache\100\{6D809377-6AF0-444B-8957-A3773F02200E}_WinRAR_Rar_txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\AppIconCache\100\{6D809377-6AF0-444B-8957-A3773F02200E}_WinRAR_WhatsNew_txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{38321be5-fa29-432a-ba39-7325da885aab}\0.0.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{38321be5-fa29-432a-ba39-7325da885aab}\0.1.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{38321be5-fa29-432a-ba39-7325da885aab}\0.2.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{9fb7dc1f-85ae-41f1-a40a-6912ec25f291}\0.0.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{9fb7dc1f-85ae-41f1-a40a-6912ec25f291}\0.1.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{9fb7dc1f-85ae-41f1-a40a-6912ec25f291}\0.2.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{d0992409-c58e-4afa-b602-cfd807bb12e0}\0.0.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{d0992409-c58e-4afa-b602-cfd807bb12e0}\0.1.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{d0992409-c58e-4afa-b602-cfd807bb12e0}\0.2.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{ddee5204-3937-440e-980e-4cd3da771a2f}\appsconversions.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{ddee5204-3937-440e-980e-4cd3da771a2f}\appsglobals.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{ddee5204-3937-440e-980e-4cd3da771a2f}\appssynonyms.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{ddee5204-3937-440e-980e-4cd3da771a2f}\settingsconversions.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{ddee5204-3937-440e-980e-4cd3da771a2f}\settingsglobals.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{ddee5204-3937-440e-980e-4cd3da771a2f}\settingssynonyms.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{d0d57676-ca15-4f8f-b972-654b08436cf1}\0.0.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{d0d57676-ca15-4f8f-b972-654b08436cf1}\0.1.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{d0d57676-ca15-4f8f-b972-654b08436cf1}\0.2.filtertrie.intermediate.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274500811927510.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274501601938449.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274505603261531.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274506478407638.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274506675353936.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274506775206430.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274506975256706.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274514326572466.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274514625056084.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274514925856318.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132274517179312655.txt
+c:\Users\User\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\SettingsCache.txt
+c:\Users\User\AppData\Local\Temp\example.txt
+c:\Users\v.gilev\.android\avd\Pixel_2_API_24.avd\emu-launch-params.txt
+c:\Users\v.gilev\.android\avd\Pixel_2_API_24.avd\read-snapshot.txt
+c:\Users\v.gilev\.AndroidStudio3.6\config\disabled_update.txt
+c:\Users\v.gilev\.AndroidStudio3.6\system\caches\project_resources\project_lru_list.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\000772770b31839da1ff8a942bf73abb\lifecycle-viewmodel-2.0.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\000772770b31839da1ff8a942bf73abb\lifecycle-viewmodel-2.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\000b010556120687f0dad3b08d7268c1\androidx.arch.core-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\00aeb630c1ba30ce0a48fe17d7fdcba8\androidx.customview-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\02130f8588e893a27f21747240ee3d4c\androidx.constraintlayout.widget-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\public.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\public.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\public.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\1f1e8e4a76be6cada5bc3d695b12045b\androidx.viewpager-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\2045e7ee91c30b9e08ba0a94c7d1d86d\androidx.fragment-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\29eb4f9f2e9ad5d0211252887b0e3910\espresso-idling-resource-3.2.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\305d7d4f89ad2e59ec6a5d5181b7da01\androidx.swiperefreshlayout-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\3530ff0cc5a26a2482daa9b166505b64\androidx.core-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\36a65e74ed8c33a3ac1c89961d564b20\monitor-1.2.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\36a65e74ed8c33a3ac1c89961d564b20\monitor-1.2.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\3e9763ba153de0621617703231780fb6\androidx.lifecycle.livedata.core-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\497d11c4a591664ac57355c6771f7066\androidx.versionedparcelable-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\5334a782940da4b2a15faaf6d76a3e97\androidx.loader-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\560559a1d2f072346120a8facd149d09\fragment-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\57b5df201827f751e279d453622c7ee2\androidx.legacy.coreui-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\5851a34bfdb7a348bd92a4a80338f1d0\androidx.lifecycle.livedata-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\5c5ff6a9e23a514d622ec485c5d31c27\vectordrawable-1.0.1\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\6f546cf783e35c2ced0cd64da6f32ea6\androidx.documentfile-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\706aa5d8c8a43873cd63a96842e3a9e8\lifecycle-runtime-2.0.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\706aa5d8c8a43873cd63a96842e3a9e8\lifecycle-runtime-2.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\7817b5ce2cfe65064fa9d6298ed1df09\androidx.drawerlayout-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\7bf3e648c40445058acfc4a67054b3f2\androidx.lifecycle.viewmodel-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\87208b9f8fdcb73bd21a07e3bdeb668d\androidx.localbroadcastmanager-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\8bb1e64c4a4768e0753eacb873c57f4c\androidx.interpolator-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\8f8b46419d8427d04c2e42cf43a744cc\androidx.vectordrawable-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\905b9723707ae9e7682bf8b53418491f\espresso-core-3.2.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\905b9723707ae9e7682bf8b53418491f\espresso-core-3.2.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\9cfddc7e36e5933ee2ea725c9bea78af\vectordrawable-animated-1.0.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\9cfddc7e36e5933ee2ea725c9bea78af\vectordrawable-animated-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\a9cf1544e6ff89f73fbb1079dfbacbca\androidx.cursoradapter-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\ad1eeb386333f9b931c2f08286435fe2\runner-1.2.0\proguard.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\ad1eeb386333f9b931c2f08286435fe2\runner-1.2.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\b8a93abb3f20c44262d1f6f90721c0f2\androidx.slidingpanelayout-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\be8cbbde5c253dcbf38ad8adb00fa1d4\androidx.appcompat-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\bf043721d158d11fb2c5c807f5e9c83a\jetified-core-1.2.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\bf5c53afd8b247351a49d35859d7c535\androidx.coordinatorlayout-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\d6891f9c8652a7ea3182c4341b7b5f0f\androidx.asynclayoutinflater-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\da4f52640bbc4f9209c7143583c152e5\androidx.lifecycle-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\e8a5df9af184a0526117c6ec0a79a45d\androidx.legacy.coreutils-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\ef2b8c9b4bd8b00259614b983014f263\jetified-junit-1.1.1\R.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\f0548f7acba90e4182a85d8839b8413e\androidx.print-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\fad5d05497769771c9771f0adb25bb81\androidx.vectordrawable-r.txt
+c:\Users\v.gilev\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\R.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\init.d\readme.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\customBuildLanguage\basicEdition\src\dist\end-user-license-agreement.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\customBuildLanguage\enterpriseEdition\src\dist\end-user-license-agreement.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\customBuildLanguage\src\dist\readme.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\customModel\languageType\src\docs\reference\README.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\groovy\quickstart\groovy\src\main\resources\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\groovy\quickstart\groovy\src\test\resources\testResource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\groovy\quickstart\kotlin\src\main\resources\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\groovy\quickstart\kotlin\src\test\resources\testResource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\ivy-publish\conditional-publishing\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\ivy-publish\distribution\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\ivy-publish\distribution\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\java\multiproject\groovy\api\src\dist\README.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\java\multiproject\kotlin\api\src\dist\README.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\maven-publish\conditional-publishing\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\maven-publish\conditional-publishing\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\maven-publish\distribution\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\maven-publish\distribution\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\native-binaries\prebuilt\3rd-party-lib\boost_1_55_0\README.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\native-binaries\prebuilt\3rd-party-lib\util\README.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\play\custom-assets\copyright.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\providers\fileAndDirectoryProperty\groovy\src\config.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\providers\fileAndDirectoryProperty\kotlin\src\config.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\conditional\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\conditional\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\gnupg-signatory\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\gnupg-signatory\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\in-memory\groovy\src\stuff\hello.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\in-memory\kotlin\src\stuff\hello.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\maven\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\maven\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\maven-publish\groovy\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\maven-publish\kotlin\src\main\resources\sample.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\tasks\groovy\src\stuff\hello.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\signing\tasks\kotlin\src\stuff\hello.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\distribution\groovy\custom\custom.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\distribution\groovy\src\readme\readme.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\distribution\kotlin\custom\custom.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\distribution\kotlin\src\readme\readme.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\archiveNaming\groovy\somedir\file.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\archiveNaming\kotlin\somedir\file.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\archivesChangedBaseName\groovy\somedir\file.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\archivesChangedBaseName\kotlin\somedir\file.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\java\sourceSets\groovy\src\intTest\resources\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\java\sourceSets\kotlin\src\intTest\resources\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\groovy\api\src\main\resources\org\gradle\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\groovy\api\src\test\resources\org\gradle\test-resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\groovy\services\personService\src\main\resources\org\gradle\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\groovy\services\personService\src\test\resources\org\gradle\test-resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\groovy\shared\src\main\resources\org\gradle\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\groovy\shared\src\test\resources\org\gradle\test-resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\kotlin\api\src\main\resources\org\gradle\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\kotlin\api\src\test\resources\org\gradle\test-resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\kotlin\services\personService\src\main\resources\org\gradle\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\kotlin\services\personService\src\test\resources\org\gradle\test-resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\kotlin\shared\src\main\resources\org\gradle\resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\multiproject\dependencies\java\kotlin\shared\src\test\resources\org\gradle\test-resource.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfile\groovy\antLoadfileResources\agile.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfile\groovy\antLoadfileResources\gradle.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfile\kotlin\antLoadfileResources\agile.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfile\kotlin\antLoadfileResources\gradle.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfileWithMethod\groovy\antLoadfileResources\agile.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfileWithMethod\groovy\antLoadfileResources\gradle.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfileWithMethod\kotlin\antLoadfileResources\agile.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\tutorial\antLoadfileWithMethod\kotlin\antLoadfileResources\gradle.manifesto.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\webApplication\customized\groovy\src\rootContent\root.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\webApplication\customized\kotlin\src\rootContent\root.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\webApplication\quickstart\groovy\src\main\resources\greeting.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\webApplication\quickstart\kotlin\src\main\resources\greeting.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\noIsolation\groovy\sources\hemingway.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\noIsolation\groovy\sources\steinbeck.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\noIsolation\kotlin\sources\hemingway.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\noIsolation\kotlin\sources\steinbeck.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\waitForCompletion\groovy\sources\hemingway.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\waitForCompletion\groovy\sources\steinbeck.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\waitForCompletion\kotlin\sources\hemingway.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\waitForCompletion\kotlin\sources\steinbeck.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\workerDaemon\groovy\sources\hemingway.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\workerDaemon\groovy\sources\steinbeck.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\workerDaemon\kotlin\sources\hemingway.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\workerApi\workerDaemon\kotlin\sources\steinbeck.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\src\core\org\gradle\initialization\buildsrc\defaultBuildSourceScript.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\src\core\org\gradle\initialization\converted-types.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\src\core\org\gradle\initialization\removed-types.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\src\plugins\org\gradle\api\internal\plugins\unixStartScript.txt
+c:\Users\v.gilev\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\src\plugins\org\gradle\api\internal\plugins\windowsStartScript.txt
+c:\Users\v.gilev\AndroidStudioProjects\Testapp\app\build\intermediates\incremental\packageDebug\tmp\debug\dex-renamer-state.txt
+c:\Users\v.gilev\AndroidStudioProjects\Testapp\app\build\intermediates\manifest_merge_blame_file\debug\manifest-merger-blame-debug-report.txt
+c:\Users\v.gilev\AndroidStudioProjects\Testapp\app\build\intermediates\runtime_symbol_list\debug\R.txt
+c:\Users\v.gilev\AndroidStudioProjects\Testapp\app\build\intermediates\symbol_list_with_package_name\debug\package-aware-r.txt
+c:\Users\v.gilev\AndroidStudioProjects\Testapp\app\build\outputs\logs\manifest-merger-debug-report.txt
+c:\Users\v.gilev\AppData\Local\1C\1Cv8ConfigUpdate\FileIndex\1c_Accounting_3_0_58_41__1cv8_cfu.txt
+c:\Users\v.gilev\AppData\Local\1C\1Cv8ConfigUpdate\FileIndex\1c_Accounting_3_0_60_34__1cv8_cfu.txt
+c:\Users\v.gilev\AppData\Local\1C\1Cv8ConfigUpdate\FileIndex\1c_Accounting_3_0_61_37__1cv8_cfu.txt
+c:\Users\v.gilev\AppData\Local\1C\1Cv8ConfigUpdate\FileIndex\1c_Accounting_3_0_64_21__1cv8_cfu.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\build-tools\29.0.3\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\build-tools\29.0.3\renderscript\clang-include\CMakeLists.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\emulator\android-info.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\emulator\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\extras\google\Android_Emulator_Hypervisor_Driver\README.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\common\py_trace_event\README.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\common\py_utils\py_utils\test_data\foo.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\common\py_vulcanize\third_party\rcssmin\docs\apidoc\api-objects.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\common\py_vulcanize\third_party\rjsmin\docs\apidoc\api-objects.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\devil\devil\android\sdk\test\data\push_directory\push_directory_contents.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\devil\devil\android\sdk\test\data\push_file.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\systrace\systrace\test_data\compressed_atrace_data.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\systrace\systrace\test_data\decompressed_atrace_data.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platform-tools\systrace\catapult\third_party\pyserial\LICENSE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\activity_actions.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\broadcast_actions.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\categories.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\features.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\fonts\fontsInSdk.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\service_actions.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\data\widgets.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\skins\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\platforms\android-29\templates\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-14\default\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-15\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-16\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-17\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-18\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-19\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-21\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-22\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-22\google_apis\x86\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-23\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-24\default\arm64-v8a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-24\default\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-24\google_apis\arm64-v8a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-24\google_apis_playstore\x86\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-25\google_apis\arm64-v8a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\system-images\android-25\google_apis\armeabi-v7a\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\lib\proguard-project.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\NOTICE.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\examples\dictionaries\compact.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\examples\dictionaries\keywords.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\examples\dictionaries\shakespeare.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\examples\dictionaries\windows.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\proguard-android-optimize.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\proguard-android.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\proguard\proguard-project.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-de.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-en.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-es.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-hu.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-it.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-nb.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-pt.txt
+c:\Users\v.gilev\AppData\Local\Android\Sdk\tools\support\typos-tr.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\thirdparties\easylist-downloads.adblockplus.org\easylist.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\thirdparties\easylist-downloads.adblockplus.org\easyprivacy.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\thirdparties\www.malwaredomainlist.com\hostslist\hosts.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\badware.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\experimental.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\filters-2020.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\filters.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\legacy.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\privacy.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\resource-abuse.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\assets\ublock\unbreak.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\css\fonts\Inter\LICENSE.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\css\fonts\OFL.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\img\fontawesome\LICENSE.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\LICENSE.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\web_accessible_resources\noop.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm\1.27.10_99\web_accessible_resources\README.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\06657fa3064367a2d1559f7db938a3b38d76a3bd\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1d5a54826bcf5c2d2ca5303c5efc05c55283b8a7\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\38ba121f977b096b836d2b627de9a4b919b44e5c\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\42617d1ccf08f3e31a6f343e65155fb66a210093\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\60abf70954ca1bd166c9f39e62c89a07426fd9c3\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\7f48483383968cfbf97a5c6d736588b00ccb874e\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\aed9958a55478d37c0bd71f9c11726ecc5290045\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\b179c7b416052cc6da17545cae82cb5a7ab2412c\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c74e9ca3a430d573aeea6e3877c1633abb77927b\index.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Subresource Filter\Unindexed Rules\9.12.0\LICENSE.txt
+c:\Users\v.gilev\AppData\Local\Google\Chrome\User Data\Subresource Filter\Unindexed Rules\9.13.0\LICENSE.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\caches\project_resources\project_lru_list.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-production\chapter_001_1dd7773f\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-production\chapter_002_1dd77740\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-production\chapter_003_1dd77741\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-production\chapter_004_1dd77742\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-production\chapter_j_001_91d566a\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-test\chapter_001_1dd7773f\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-test\chapter_002_1dd77740\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-test\chapter_003_1dd77741\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-test\chapter_004_1dd77742\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\JetBrains\IdeaIC2020.1\compile-server\job4j_fb67f85f\targets\java-test\chapter_j_001_91d566a\kotlin\has-kotlin-marker.txt
+c:\Users\v.gilev\AppData\Local\Microsoft\Internet Explorer\brndlog.txt
+c:\Users\v.gilev\AppData\Local\Microsoft\MSOIdentityCRL\Tracing\msoidLiteTrace{D0F55A5E-7251-483B-936B-581BD6B404BC}.txt
+c:\Users\v.gilev\AppData\Local\Microsoft\OneDrive\19.002.0107.0005\ThirdPartyNotices.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_10_01_29_3935.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_10_16_29_3718.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_10_31_29_3675.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_10_46_57_0910.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_11_01_29_4006.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_11_28_27_1917.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_11_31_30_0256.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_11_46_30_0220.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_12_01_29_4172.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_12_16_29_3932.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask07_18_12_31_29_3663.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.PostInstallationTask03_07_11_01_10_0426.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\AppIconCache\100\{6D809377-6AF0-444B-8957-A3773F02200E}_WinRAR_Rar_txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\AppIconCache\100\{6D809377-6AF0-444B-8957-A3773F02200E}_WinRAR_WhatsNew_txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{5c2e0070-67ec-45b9-ae95-a5ead5bf32d7}\0.0.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{5c2e0070-67ec-45b9-ae95-a5ead5bf32d7}\0.1.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{5c2e0070-67ec-45b9-ae95-a5ead5bf32d7}\0.2.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{adcb3d2b-4806-46c9-9f7e-300ff920269d}\0.0.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{adcb3d2b-4806-46c9-9f7e-300ff920269d}\0.1.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{adcb3d2b-4806-46c9-9f7e-300ff920269d}\0.2.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{fb313282-0eb7-48d3-8040-d72f96a5c318}\0.0.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{fb313282-0eb7-48d3-8040-d72f96a5c318}\0.1.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{fb313282-0eb7-48d3-8040-d72f96a5c318}\0.2.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{a2f3cb7b-ec0c-492c-8654-f50a5df89384}\appsconversions.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{a2f3cb7b-ec0c-492c-8654-f50a5df89384}\appsglobals.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{a2f3cb7b-ec0c-492c-8654-f50a5df89384}\appssynonyms.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{a2f3cb7b-ec0c-492c-8654-f50a5df89384}\settingsconversions.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{a2f3cb7b-ec0c-492c-8654-f50a5df89384}\settingsglobals.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{a2f3cb7b-ec0c-492c-8654-f50a5df89384}\settingssynonyms.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{7efcb4ff-bd84-4e0e-89db-ac6540f2b407}\0.0.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{7efcb4ff-bd84-4e0e-89db-ac6540f2b407}\0.1.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{7efcb4ff-bd84-4e0e-89db-ac6540f2b407}\0.2.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{b6dccab0-8097-4d77-80cd-119e1cd0a882}\0.0.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{b6dccab0-8097-4d77-80cd-119e1cd0a882}\0.1.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{b6dccab0-8097-4d77-80cd-119e1cd0a882}\0.2.filtertrie.intermediate.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132395372092754276.txt
+c:\Users\v.gilev\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\LocalState\DeviceSearchCache\SettingsCache.txt
+c:\Users\v.gilev\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+c:\Users\v.gilev\AppData\Local\Temp\FXSTIFFDebugLogFile.txt
+c:\Users\v.gilev\AppData\Local\Temp\skype-preview Crashes\operation_log.txt
+c:\Users\v.gilev\AppData\LocalLow\Adobe\Acrobat\DC\Reader\Synchronizer\AdobeCollabSync.exe-log.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\02988952-b875-49c6-8f19-f3893d009a10\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\06d17433-53e1-4791-9708-6da9d8814b77\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\0c1ae918-3293-4078-8db4-5321e8440866\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\148fdbfc-271a-4e41-925e-7e0eda88d29b\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\298116fc-4d1d-4011-96d9-bf5039db24e3\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\29e8940e-a17b-4401-878f-cd8ecaf8050f\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\307a4d3a-880d-4a46-8802-e4249d463731\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\45aad036-9dea-482d-af29-f459ad880cce\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\63848067-cbf0-4a84-a438-4574aae4ca26\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\65245a0c-f1f7-43bc-a4a0-30930ce915fb\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\7198b78d-b77c-438e-9ac4-682094f7a749\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\734e904c-5231-49cf-a6d0-4eae94a76421\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\76dc13e5-d479-4d3e-bebd-5861cb54f647\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\87d42378-2650-44c4-ad1a-82443f8edcd1\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\880976bb-a12e-4dbd-a0d6-b0ceca2d699a\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\8ea95e53-096d-4ff8-ac44-39f2303a3b4f\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\9fc7d085-0891-4955-b5db-092e740e69b7\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\a7706323-1326-4bd5-9d02-b3209fb14fa5\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\acac0947-f336-4414-8bf7-401ca56b41d5\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\b1945cf0-66c9-448b-9e66-0018f7828cae\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1cv8\f662876d-a458-4fb5-9ba7-ccf12c4b2604\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\0a47b660-8961-4dfc-ae83-82e74d380ee7\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\c25612e6-1c4a-4c18-8ecc-a57913333716\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\d14544b7-ed0e-4c95-9ab6-72cc850e7719\logui.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\Версии библиотек.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\Обмены данными\Обмен с конфигурацией Розница ред. 1.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\Обмены данными\Обмен с конфигурацией Розница ред. 2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.58.41\Обмены данными\Обмен с конфигурацией Управление торговлей, ред. 10.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\Версии библиотек.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\Обмены данными\Обмен с конфигурацией Розница ред. 1.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\Обмены данными\Обмен с конфигурацией Розница ред. 2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.60.34\Обмены данными\Обмен с конфигурацией Управление торговлей, ред. 10.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\Версии библиотек.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\Обмены данными\Обмен с конфигурацией Розница ред. 1.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\Обмены данными\Обмен с конфигурацией Розница ред. 2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.61.37\Обмены данными\Обмен с конфигурацией Управление торговлей, ред. 10.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\Версии библиотек.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\Обмены данными\Обмен с конфигурацией Розница ред. 1.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\Обмены данными\Обмен с конфигурацией Розница ред. 2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3.0.64.21\Обмены данными\Обмен с конфигурацией Управление торговлей, ред. 10.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\Обмены данными\Обмен с конфигурацией Розница ред. 1.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\Обмены данными\Обмен с конфигурацией Розница ред. 2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_55_16\Обмены данными\Обмен с конфигурацией Управление торговлей, ред. 10.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\UpdInfo_20.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\Обмены данными\Обмен с конфигурацией Розница ред. 1.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\Обмены данными\Обмен с конфигурацией Розница ред. 2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\Обмены данными\Обмен с конфигурацией Управление нашей фирмой, ред. 1.6\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_58_20\Обмены данными\Обмен с конфигурацией Управление торговлей, ред. 10.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Accounting\3_0_9_4\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Conversion\2_1_8_2\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Conversion\2_1_8_2\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Conversion\3_0_2_1\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DMIL\1_1_12_1\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DMIL\1_1_14_4\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Бухгалтерия предприятия КОРП, ред. 3.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление предприятием, ред. 2.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление предприятием, ред. 2.1\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление производственным предприятием, ред. 1.3\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление торговлей, ред. 11\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление торговлей, ред. 11.1\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление торговлей, ред. 11.2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление холдингом, ред. 1.1\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\DocMngCorp\2.0.17.4\Синхронизация данных\Управление холдингом, ред. 1.2\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_2_1_115\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_2_1_115\Версии библиотек.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_2_1_115\Синхронизация данных\Документооборот КОРП, ред. 1.4\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_2_1_115\Синхронизация данных\Документооборот КОРП, ред. 2.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_2_1_115\Синхронизация данных\Документооборот КОРП, ред. 2.1\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_2_1_115\Синхронизация данных\ЗУП, ред. 2.5\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_4_10_62\AddFiles\Переходы с других конфигураций\Синхронизация данных\Документооборот КОРП, ред. 1.4\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_4_10_62\AddFiles\Переходы с других конфигураций\Синхронизация данных\Документооборот КОРП, ред. 2.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_4_10_62\AddFiles\Переходы с других конфигураций\Синхронизация данных\Документооборот КОРП, ред. 2.1\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_4_10_62\AddFiles\Переходы с других конфигураций\Синхронизация данных\ЗУП, ред. 2.5\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_4_10_62\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\Enterprise20\2_4_10_62\Версии библиотек.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\HRM\3_1_5_129\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\ConvTr103\ConvTr103.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\UpdInfo.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\Обмены данными\Обмен с конфигурацией Бухгалтерия предприятия, ред. 2.0\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\Обмены данными\Обмен с конфигурацией Бухгалтерия предприятия, ред. 3.0\Инструкция по подключению правил обмена БП.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\Обмены данными\Обмен с конфигурацией Бухгалтерия предприятия, ред. 3.0\Инструкция по подключению правил обмена УНФ.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\smallbusiness\1_6_7_43\Обмены данными\Обмен с конфигурацией Розница, ред. 2.1\Инструкция по подключению правил обмена.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\1c\SSL\2_3_2_58\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\Appius\PLMforERP2\2016.34\ReadMe.txt
+c:\Users\v.gilev\AppData\Roaming\1C\1Cv82\tmplts\Appius\PLMforERP2\2016.34\VerInfo.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\disabled_plugins.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\disabled_update.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\build.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\COPYRIGHT.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\NOTICE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\aosp_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\args4j_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\asm_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\boost_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\closure-compiler_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\dart_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\gradle_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\guava_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\gwt_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\jquery_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\jshashtable_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\karma-teamcity-reporter_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\karma_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\lodash_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\maven_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\mocha-teamcity-reporter_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\pcollections_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\prototype_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\qunit_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\rhino_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\scala_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\source-map-loader_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\teamcity-service-messages_LICENSE.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\dagger_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\eclipse_distribution_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\eclipse_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\findbugs_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\lombok_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\rxjava_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\testdata\spring_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\trove_license.txt
+c:\Users\v.gilev\AppData\Roaming\JetBrains\IdeaIC2020.1\plugins\Kotlin\kotlinc\license\third_party\trove_readme_license.txt
+c:\Users\v.gilev\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
+c:\Users\v.gilev\AppData\Roaming\Telegram Desktop\log.txt
+c:\Users\v.gilev\Desktop\Work\2.txt
+c:\Users\v.gilev\Desktop\Work\CoolTrayIcon\demos.txt
+c:\Users\v.gilev\Desktop\Work\CoolTrayIcon\install.txt
+c:\Users\v.gilev\Desktop\Work\CoolTrayIcon\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\CacheDup\about.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\IBDemo\ibdemo.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\IBX\CachedUp\about.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\IBX\IBSilentInstall\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\IBX\IBXEvents\ibdemo.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\SQLClientDataset\Readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Db\TextData\textfile.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Indy\README_Indy.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheConfigEditor\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\Authentication\kylixpasswordfile.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\Authentication\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\Authorization\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\DBModule\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\Hello\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\logging\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\Mod101.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\ApacheDSO\ModuleInit\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\CGIs\demo_bin\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\CGIs\demo_src\PageProducerCGI\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\CGIs\demo_src\PortScanner\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\CGIs\demo_src\WebRequestCGI\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\CGIs\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Internet\rexec\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Midas\InternetExpress\CustomerList\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Midas\InternetExpress\InetXCenter\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Midas\InternetExpress\InetXCustom\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Midas\InternetExpress\TroubleShoot\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\Quickrpt\QReport_README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\ToolsAPI\XPAppWiz\README.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\ToolsAPI\XPAppWiz\XPAPPCODE.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\DBServer\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\EchoService\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\IssuesSample\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\PostTool\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\SOAPAttachments\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\SOAPDataModule\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebServices\SOAPHeaders\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\ActionField\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\ActionFieldTest\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\BioLife\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\CountryEditor\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\CountryReport\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\DBExpress\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\DispHandlers\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\DumpModules\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\ImgBtnCountryEditor\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\ImgBtnProducer\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\InternetExpress\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\LocateFileService\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\MasterDetail\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\MinApp\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\PhotoGallery\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\ScriptObject\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\ScriptObjectTest\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\SessionTest\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\SimpleAdapter\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\TestSvrInfo\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\Tutorials\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\WebDispatcher\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\WebMail\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\XMLBiolife\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\XMLBuilder\readme.txt
+c:\Users\v.gilev\Desktop\Work\Delphi\Demos\WebSnap\XSLProducer\readme.txt
+c:\Users\v.gilev\Desktop\Work\Dist\File Type Signatures Search.txt
+c:\Users\v.gilev\Desktop\Work\Dist\ResHack\Resource Hacker\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\More1\readme.txt
+c:\Users\v.gilev\Desktop\Work\Other\111.txt
+c:\Users\v.gilev\Desktop\Work\Other\mssql.txt
+c:\Users\v.gilev\Desktop\Work\RxLib\history.txt
+c:\Users\v.gilev\Desktop\Work\RxLib\Install_eng.txt
+c:\Users\v.gilev\Desktop\Work\RxLib\Install_es.txt
+c:\Users\v.gilev\Desktop\Work\RxLib\Install_rus.txt
+c:\Users\v.gilev\Desktop\Work\RxLib\ReadMe_eng_psa1974.txt
+c:\Users\v.gilev\Desktop\Work\RxLib\ReadMe_rus_psa1974.txt
+c:\Users\v.gilev\Desktop\Work\WMS0\.hg\cur-message.txt
+c:\Users\v.gilev\Desktop\Work\WMS0\.hg\last-message.txt
+c:\Users\v.gilev\Desktop\Work\WMS0\bin\Debug\WMSPDA.txt
+c:\Users\v.gilev\Desktop\Work\WMS0\obj\Debug\WMS_PDA.csproj.FileListAbsolute.txt
+c:\Users\v.gilev\Desktop\Work\WMS0\WMSPDA.txt
+c:\Users\v.gilev\Desktop\Work\бобо.txt
+c:\Users\v.gilev\Desktop\Work\Обмен\Обработки\ReadMe.txt
+c:\Users\v.gilev\Desktop\Work\Обработки\14_Clock\csharp.txt
+c:\Users\v.gilev\Desktop\Work\Обработки\JSON\JSON\json\license.txt
+c:\Users\v.gilev\Desktop\Work\Обработки\JSON\JSON\json\readme.txt
+c:\Users\v.gilev\Desktop\Work\Обработки\УПП_2015\Доработки\20150321.txt
+c:\Users\v.gilev\Desktop\Work\Обработки\УПП_2015\ОтчетОСравнении.txt
+c:\Users\v.gilev\Desktop\Work\строка_подключения.txt
+c:\Users\v.gilev\Desktop\АдресВТТН.txt
+c:\Users\v.gilev\Desktop\Бюджетирование\111.txt
+c:\Users\v.gilev\Documents\Buhphone\bin\BPh_RDA\rms\license.txt
+c:\Users\v.gilev\Documents\Buhphone\Update\Preupdate\license.txt
+c:\Users\v.gilev\Documents\MES_WMS\Схемы\Error.txt
+c:\Users\v.gilev\Documents\NetBeansProjects\Task1\.hg\last-message.txt
+c:\Users\v.gilev\Documents\Книги\11.txt
+c:\Users\v.gilev\Documents\Книги\Harrison Harry. West of Eden - royallib.com.txt\Harrison Harry. West of Eden - royallib.ru.txt
+c:\Users\v.gilev\Documents\Книги\Other\TheLordOfTheRings.txt
+c:\Users\v.gilev\Documents\Книги\Кагарлицкий\Переферийная_Империя.txt
+c:\Users\v.gilev\Documents\Книги\Стихи\ДетиМарфы.txt
+c:\Users\v.gilev\Documents\Книги\Стихи\ЕвгенийОнегин.txt
+c:\Users\v.gilev\Documents\Книги\Стихи\Киплинг.txt
+c:\Users\v.gilev\Documents\Книги\Стихи\мцыри.txt
+c:\Users\v.gilev\Documents\Книги\Стихи\Томплинсон.txt
+c:\Users\v.gilev\Documents\ОтчетОСравнении.txt
+c:\Users\v.gilev\Downloads\Доставка_замечания.txt
+c:\Users\v.gilev\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200601\DatastoreBackup\schema.txt
+c:\Users\v.gilev\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200601\MicrosoftEdgeSettingsBackup.txt
+c:\Users\v.gilev.NVHRUS\AppData\Roaming\1C\1Cv82\tmplts\1c\DMIL\1_1_11_2\ReadMe.txt
+c:\Users\v.gilev.NVHRUS\AppData\Roaming\1C\1Cv82\tmplts\1c\DMIL\1_1_16_1\ReadMe.txt
+c:\Users\v.gilev.NVHRUS\AppData\Roaming\1C\1Cv82\tmplts\1c\SSL\2_0_1_19\ReadMe.txt
+c:\Users\v.gilev.NVHRUS\AppData\Roaming\1C\1Cv82\tmplts\1c\SSL\2_1_9_2\ReadMe.txt
+c:\Users\Администратор\AppData\Local\Microsoft\Internet Explorer\brndlog.txt
+c:\Users\Администратор\AppData\Local\Microsoft\OneDrive\19.002.0107.0005\ThirdPartyNotices.txt
+c:\Windows\appcompat\Programs\Install\INSTALL_0000_eea108d6-b9d8-4fb3-a9cc-f00a635fbfc5.txt
+c:\Windows\appcompat\Programs\Install\INSTALL_0002_4b966e5e-aa27-46ce-8768-a2b0e325b8ac.txt
+c:\Windows\appcompat\Programs\Install\INSTALL_ffff_4b966e5e-aa27-46ce-8768-a2b0e325b8ac.txt
+c:\Windows\appcompat\Programs\Install\INSTALL_ffff_eea108d6-b9d8-4fb3-a9cc-f00a635fbfc5.txt
+c:\Windows\Control_OSServices\UpdateCenter\readme.txt
+c:\Windows\Control_OSServices\UpdateCenter\StopUpdates10log.txt
+c:\Windows\Installer\$PatchCache$\Managed\68AB67CA7DA79401B744CAF070E41400\15.7.20033\displaylanguagenames.ru.txt
+c:\Windows\Installer\$PatchCache$\Managed\68AB67CA7DA79401B744CAF070E41400\15.7.20033\zdingbat.txt
+c:\Windows\Installer\$PatchCache$\Managed\68AB67CA7DA79401B744CAF070E41400\CacheSize.txt
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\ThirdPartyNotices.txt
+c:\Windows\Microsoft.NET\Framework64\v4.0.30319\ThirdPartyNotices.txt
+c:\Windows\System32\catroot2\dberr.txt
+c:\Windows\System32\drivers\gmreadme.txt
+c:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_77e6900053c33f6f\license.txt
+c:\Windows\System32\MailContactsCalendarSync\LiveDomainList.txt
+c:\Windows\System32\restore\MachineGuid.txt
+c:\Windows\System32\VmChipset Third-Party Notices.txt
+c:\Windows\System32\WindowsCodecsRaw.txt
+c:\Windows\System32\WindowsPowerShell\v1.0\en-US\default.help.txt
+c:\Windows\System32\WindowsPowerShell\v1.0\ru-RU\default.help.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\1.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\10.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\11.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\12.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\13.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\14.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\15.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\16.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\17.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\18.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\19.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\2.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\20.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\21.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\22.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\23.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\24.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\25.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\26.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\27.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\28.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\29.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\3.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\4.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\5.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\6.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\7.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\8.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\9.txt
+c:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\Microsoft.Bing.Client.Graph\Configuration.txt
+c:\Windows\SysWOW64\drivers\gmreadme.txt
+c:\Windows\SysWOW64\MailContactsCalendarSync\LiveDomainList.txt
+c:\Windows\SysWOW64\WindowsCodecsRaw.txt
+c:\Windows\SysWOW64\WindowsPowerShell\v1.0\en-US\default.help.txt
+c:\Windows\SysWOW64\WindowsPowerShell\v1.0\ru-RU\default.help.txt
+c:\Windows\Temp\FXSAPIDebugLogFile.txt
+c:\Windows\Temp\FXSTIFFDebugLogFile.txt
+c:\Windows\WinSxS\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.18362.535_none_2b20a6f71e3a0347\VmChipset Third-Party Notices.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\1.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\10.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\11.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\12.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\13.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\14.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\15.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\16.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\17.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\18.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\19.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\2.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\20.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\21.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\22.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\23.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\24.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\25.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\26.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\27.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\28.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\29.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\3.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\4.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\5.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\6.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\7.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\8.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\9.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\1.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\10.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\11.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\12.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\13.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\14.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\15.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\16.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\17.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\18.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\19.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\2.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\20.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\21.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\22.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\23.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\24.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\25.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\26.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\27.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\4.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\5.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\6.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\7.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\8.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\f\9.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\n\28.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\n\29.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\1.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\10.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\11.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\12.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\13.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\14.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\15.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\16.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\17.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\18.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\19.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\2.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\20.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\21.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\22.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\23.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\24.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\25.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\26.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\27.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\4.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\5.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\6.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\7.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\8.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.18362.387_none_178364f5a43be4bd\r\9.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-c..lient.graph.cortana_31bf3856ad364e35_10.0.18362.1_none_6e95d506fb1c96dd\Configuration.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.18362.1_none_98e4a01c2063c3bc\LiveDomainList.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_10.0.18362.1_en-us_940fc2531ea60bc6\default.help.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_10.0.18362.1_ru-ru_dd30da076fab076d\default.help.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-t..-coreinkrecognition_31bf3856ad364e35_10.0.18362.1_none_bff5b1a0782b21f4\ThirdPartyNotices.MSHWLatin.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-t..extservice-tigrinya_31bf3856ad364e35_10.0.18362.1_none_44d035c3c924f054\TableTextServiceTigrinya.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_10.0.18362.1_none_37373e3bdf26d1ac\TableTextServiceArray.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_10.0.18362.1_none_13dae3b93bdfbc7b\TableTextServiceYi.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-t..tional-chinese-dayi_31bf3856ad364e35_10.0.18362.1_none_32d9817162d3829c\TableTextServiceDaYi.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-u..userpredictionmodel_31bf3856ad364e35_10.0.18362.1_none_5f36214c9498167b\SBCModel.txt
+c:\Windows\WinSxS\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.18362.1_none_6752e1ac34f4f2cb\WindowsCodecsRaw.txt
+c:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_a68fda9ff1094a3f\about_BeforeEach_AfterEach.help.txt
+c:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_a68fda9ff1094a3f\about_Mocking.help.txt
+c:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_a68fda9ff1094a3f\about_Pester.help.txt
+c:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_a68fda9ff1094a3f\about_should.help.txt
+c:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_a68fda9ff1094a3f\about_TestDrive.help.txt
+c:\Windows\WinSxS\amd64_multimedia-generalmididata_31bf3856ad364e35_10.0.18362.1_none_5b1abbc6d39b8244\gmreadme.txt
+c:\Windows\WinSxS\amd64_netfx4-attributionfile_b03f5f7f11d50a3a_4.0.15788.0_none_745c40f456d5b510\ThirdPartyNotices.txt
+c:\Windows\WinSxS\amd64_windows-defender-service_31bf3856ad364e35_10.0.18362.1_none_980392c9d40502d2\ThirdPartyNotices.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.18362.1_none_a3394a6e54c485b7\LiveDomainList.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_10.0.18362.1_en-us_9e646ca55306cdc1\default.help.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_10.0.18362.1_ru-ru_e7858459a40bc968\default.help.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-t..-coreinkrecognition_31bf3856ad364e35_10.0.18362.1_none_ca4a5bf2ac8be3ef\ThirdPartyNotices.MSHWLatin.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-t..extservice-tigrinya_31bf3856ad364e35_10.0.18362.1_none_4f24e015fd85b24f\TableTextServiceTigrinya.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_10.0.18362.1_none_418be88e138793a7\TableTextServiceArray.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_10.0.18362.1_none_1e2f8e0b70407e76\TableTextServiceYi.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-t..tional-chinese-dayi_31bf3856ad364e35_10.0.18362.1_none_3d2e2bc397344497\TableTextServiceDaYi.txt
+c:\Windows\WinSxS\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.18362.1_none_71a78bfe6955b4c6\WindowsCodecsRaw.txt
+c:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_b0e484f2256a0c3a\about_BeforeEach_AfterEach.help.txt
+c:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_b0e484f2256a0c3a\about_Mocking.help.txt
+c:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_b0e484f2256a0c3a\about_Pester.help.txt
+c:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_b0e484f2256a0c3a\about_should.help.txt
+c:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.18362.1_none_b0e484f2256a0c3a\about_TestDrive.help.txt
+c:\Windows\WinSxS\wow64_multimedia-generalmididata_31bf3856ad364e35_10.0.18362.1_none_656f661907fc443f\gmreadme.txt
+c:\Windows\WinSxS\x86_netfx4-attributionfile_b03f5f7f11d50a3a_4.0.15788.0_none_bc0977cb6b51de16\ThirdPartyNotices.txt
