@@ -9,7 +9,7 @@
 --3. Написать запрос, который выводит все продукты, срок годности которых заканчивается в следующем месяце.
 --select * from products as p 
 --	where 
---		case when EXTRACT(month from now()) > 12 THEN
+--		case when EXTRACT(month from now()) = 12 THEN
 --			EXTRACT(month from p.expired_date) = 1
 --		else
 --			EXTRACT(month from p.expired_date) = EXTRACT(month from now()) + 1
@@ -30,11 +30,11 @@
 --where t.name = 'СЫР' or t.name = 'МОЛОКО';
 
 --7. Написать запрос, который выводит тип продуктов, которых осталось меньше 10 штук.  
---select t.name, SUM(p.balance) from products as p
+--select t.name, count(p.id) from products as p
 -- left join types as t
 -- on p.type_id = t.id
 -- group by (t.name)
--- having sum(p.balance) < 10
+-- having count(p.id) < 10
 
 --8. Вывести все продукты и их тип.
 --select * from products as p
