@@ -29,7 +29,6 @@ public class StartUITest {
                 new String[]{"0"}
         );
         StubAction action = new StubAction();
-
         new StartUI(input, new SqlTracker(), output).init(new UserAction[]{action});
         assertThat(action.isCall(), is(true));
     }

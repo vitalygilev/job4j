@@ -12,7 +12,8 @@ public class CreateAction extends BaseAction {
     @Override
     public boolean execute(Input input, Store tracker, Consumer<String> output) throws SQLException {
         String name = input.askStr("Enter name: ");
-        Item item = new Item(name);
+        String desc = input.askStr("Enter description: ");
+        Item item = new Item(name, desc);
         tracker.add(item);
         return true;
     }

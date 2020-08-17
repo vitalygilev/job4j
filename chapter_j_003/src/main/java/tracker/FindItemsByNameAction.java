@@ -16,7 +16,8 @@ public class FindItemsByNameAction extends BaseAction {
         List<Item> foundItems = tracker.findByName(itemName);
         if (foundItems.size() != 0) {
             for (Item currentItem : foundItems) {
-                output.accept("Item: " + currentItem.getName() + " id = " + currentItem.getId());
+                //output.accept("Item: " + currentItem.getName() + " id = " + currentItem.getId());
+                output.accept("Item: " + currentItem.getName());
             }
         } else {
             output.accept("Wrong Name!");
