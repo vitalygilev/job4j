@@ -31,7 +31,7 @@
             <properties>
                 <liquibase.url>jdbc:postgresql://localhost/tracker</liquibase.url>
                 <liquibase.username>postgres</liquibase.username>
-                <liquibase.password></liquibase.password>
+                <liquibase.password>112233</liquibase.password>
                 <liquibase.driver>org.postgresql.Driver</liquibase.driver>
             </properties>
         </profile>
