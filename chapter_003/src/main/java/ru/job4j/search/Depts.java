@@ -38,9 +38,9 @@ public class Depts {
 
     @Override
     public String toString() {
-        return "Depts{" +
-                "depts=" + depts +
-                '}';
+        return "Depts{"
+                + "depts=" + depts
+                + '}';
     }
 
     public static void main(String[] args) {
