@@ -29,10 +29,10 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <db.url>jdbc:postgresql://localhost/tracker</db.url>
-                <db.username>postgres</db.username>
-                <db.password></db.password>
-                <db.driver>org.postgresql.Driver</db.driver>
+                <liquibase.url>jdbc:postgresql://localhost/tracker</liquibase.url>
+                <liquibase.username>postgres</liquibase.username>
+                <liquibase.password></liquibase.password>
+                <liquibase.driver>org.postgresql.Driver</liquibase.driver>
             </properties>
         </profile>
     </profiles>
