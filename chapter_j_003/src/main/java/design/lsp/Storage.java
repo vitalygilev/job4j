@@ -1,16 +1,13 @@
 package design.lsp;
 
-/**
- * Class describes a Storage unit.
- */
-public class Storage {
-    private String name;
+import java.util.Calendar;
+import java.util.List;
 
-    public String getName() {
-        return name;
-    }
+public interface Storage {
 
-    public Storage(String name) {
-        this.name = name;
-    }
+    String getName();
+    void add(Food food);
+    boolean accept(Food food, Calendar controlDate);
+    List<Food> clear();
+
 }

@@ -1,22 +1,43 @@
 package design.lsp;
 
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.List;
+
 /**
- * Shop singleton object.
+ * Warehouse object.
  */
-public class Shop extends Storage implements Transfer {
+public class Shop implements Storage {
 
-    private static Shop instance = new Shop();
+    private final String name = "Shop";
+    private List<Food> goods = new ArrayList<>();
 
-    private Shop() {
-        super("Shop");
-    }
-
-    public static Shop getInstance() {
-        return instance;
+    @Override
+    public String getName() {
+        return name;
     }
 
     @Override
-    public void move(StorageUnit currentFood) {
-        currentFood.setStorage(instance);
+    public void add(Food food) {
+        goods.add(food);
+    }
+
+    @Override
+    public boolean accept(Food food, Calendar controlDate) {
+        long shelLife = food.getExpireDate().getTimeInMillis() -
+                food.getCreateDate().getTimeInMillis();
+        long shelLifeReminder = food.getExpireDate().getTimeInMillis() - controlDate.getTimeInMillis();
+        if (shelLife == 0 ) {
+            shelLife = shelLifeReminder;
+        }
+        float percentResult = (float) shelLifeReminder / shelLife;
+        return  (percentResult >= 0.25 && percentResult < 0.75);
+    }
+
+    @Override
+    public List<Food> clear() {
+        List<Food> result = new ArrayList<>(goods);
+        goods.clear();
+        return result;
     }
 }

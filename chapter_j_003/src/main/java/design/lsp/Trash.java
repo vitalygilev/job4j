@@ -1,22 +1,43 @@
 package design.lsp;
 
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.List;
+
 /**
- * Trash singleton object.
+ * Trash object.
  */
-public class Trash extends Storage implements Transfer {
+public class Trash implements Storage {
 
-    private static Trash  instance = new Trash();
+    private final String name = "Trash";
+    private List<Food> goods = new ArrayList<>();
 
-    private Trash() {
-        super("Trash");
-    }
-
-    public static Trash getInstance() {
-        return instance;
+    @Override
+    public String getName() {
+        return name;
     }
 
     @Override
-    public void move(StorageUnit currentFood) {
-        currentFood.setStorage(instance);
+    public void add(Food food) {
+            goods.add(food);
+    }
+
+    @Override
+    public boolean accept(Food food, Calendar controlDate) {
+        long shelLife = food.getExpireDate().getTimeInMillis() -
+                food.getCreateDate().getTimeInMillis();
+        long shelLifeReminder = food.getExpireDate().getTimeInMillis() - controlDate.getTimeInMillis();
+        if (shelLife == 0 ) {
+            shelLife = shelLifeReminder;
+        }
+        float percentResult = (float) shelLifeReminder / shelLife;
+        return  percentResult < 0.25;
+    }
+
+    @Override
+    public List<Food> clear() {
+        List<Food> result = new ArrayList<>(goods);
+        goods.clear();
+        return result;
     }
 }
