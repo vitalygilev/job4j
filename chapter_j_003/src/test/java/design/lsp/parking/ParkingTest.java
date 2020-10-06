@@ -9,8 +9,8 @@ public class ParkingTest {
 
     @Test
     public void when2TrucksAnd2Cars() {
-        Truck truck1 = new Truck("Kamaz", "a111aa11");
-        Truck truck2 = new Truck("Gazelle", "a112aa11");
+        Truck truck1 = new Truck("Kamaz",3, "a111aa11");
+        Truck truck2 = new Truck("Gazelle",3, "a112aa11");
         Car car1 = new Car("UAZ", "a113aa11");
         Car car2 = new Car("VAZ", "a114aa11");
         Parking parking = new Parking(2, 2);
@@ -29,8 +29,8 @@ public class ParkingTest {
 
     @Test
     public void whenThereIsNoPlace() {
-        Truck truck1 = new Truck("Kamaz", "a111aa11");
-        Truck truck2 = new Truck("Gazelle", "a112aa11");
+        Truck truck1 = new Truck("Kamaz",3, "a111aa11");
+        Truck truck2 = new Truck("Gazelle",3, "a112aa11");
         Parking parking = new Parking(1, 1);
         parking.accept(truck1);
         boolean generated = parking.accept(truck2);
